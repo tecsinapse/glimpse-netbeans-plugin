@@ -3,6 +3,7 @@ package br.com.tecsinapse.glimpse_netbeans.gui;
 import br.com.tecsinapse.glimpse_netbeans.service.GlimpseConnector;
 import br.com.tecsinapse.glimpse_netbeans.service.ServiceRegistry;
 import java.io.IOException;
+import java.lang.reflect.Array;
 import java.text.MessageFormat;
 import javax.swing.event.ChangeListener;
 import org.openide.DialogDisplayer;
@@ -28,7 +29,11 @@ public class GlimpseManagerPanelDescriptor implements WizardDescriptor.Panel<Wiz
     }
 
     private static boolean show(GlimpseManagerPanelDescriptor descriptor) {
-        WizardDescriptor wizardDescriptor = new WizardDescriptor(new WizardDescriptor.Panel[]{descriptor});
+        @SuppressWarnings("unchecked")
+        WizardDescriptor.Panel<WizardDescriptor>[] wizardPanels =
+                (WizardDescriptor.Panel<WizardDescriptor>[]) Array.newInstance(WizardDescriptor.Panel.class, 1);
+        wizardPanels[0] = descriptor;
+        WizardDescriptor wizardDescriptor = new WizardDescriptor(wizardPanels);
         wizardDescriptor.setTitleFormat(new MessageFormat("{0}"));
         wizardDescriptor.setTitle("Glimpse Settings");
 

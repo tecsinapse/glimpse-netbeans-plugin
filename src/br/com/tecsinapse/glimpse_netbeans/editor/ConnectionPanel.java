@@ -13,13 +13,13 @@ import java.util.List;
 import javax.swing.AbstractAction;
 import javax.swing.AbstractListModel;
 import javax.swing.ComboBoxModel;
-import javax.swing.DefaultComboBoxModel;
 import javax.swing.DefaultListCellRenderer;
 import javax.swing.GroupLayout;
 import javax.swing.JComboBox;
 import javax.swing.JLabel;
 import javax.swing.JList;
 import javax.swing.LayoutStyle;
+import javax.swing.ListCellRenderer;
 import javax.swing.text.StyledDocument;
 import org.openide.awt.Mnemonics;
 import org.openide.cookies.EditorCookie;
@@ -114,28 +114,14 @@ public class ConnectionPanel extends javax.swing.JPanel {
     private final ComboModel model;
 
     private ConnectionPanel(Lookup lookup) {
-        initComponents();
         model = new ComboModel();
+        initComponents();
         this.lookup = lookup;
-
         EditorCookie context = lookup.lookup(EditorCookie.class);
         String connector = (String) context.getDocument().getProperty(
                 ConnectionAction.CONNECTOR_NAME);
         model.setSelectedConnector(connector);
 
-        jComboBox1.setModel(model);
-        jComboBox1.setRenderer(new DefaultListCellRenderer() {
-            @Override
-            public Component getListCellRendererComponent(JList<?> list, Object value, int index,
-                    boolean isSelected, boolean cellHasFocus) {
-                Object nValue = value;
-                if (value instanceof GlimpseConnector) {
-                    nValue = ((GlimpseConnector) value).getName();
-                }
-                return super.getListCellRendererComponent(list, nValue, index,
-                        isSelected, cellHasFocus);
-            }
-        });
         jComboBox1.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
@@ -152,7 +138,7 @@ public class ConnectionPanel extends javax.swing.JPanel {
         });
     }
 
-    @SuppressWarnings("unchecked")
+    @SuppressWarnings({"unchecked", "rawtypes"})
     // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
     private void initComponents() {
 
@@ -161,7 +147,20 @@ public class ConnectionPanel extends javax.swing.JPanel {
 
         Mnemonics.setLocalizedText(jLabel1, NbBundle.getMessage(ConnectionPanel.class, "ConnectionPanel.jLabel1.text")); // NOI18N
 
-        jComboBox1.setModel(new DefaultComboBoxModel(new String[] { "Item 1", "Item 2", "Item 3", "Item 4" }));
+        jComboBox1.setModel(model);
+        ListCellRenderer renderer = new DefaultListCellRenderer() {
+            @Override
+            public Component getListCellRendererComponent(JList<?> list, Object value, int index,
+                boolean isSelected, boolean cellHasFocus) {
+                Object nValue = value;
+                if (value instanceof GlimpseConnector) {
+                    nValue = ((GlimpseConnector) value).getName();
+                }
+                return super.getListCellRendererComponent(list, nValue, index,
+                    isSelected, cellHasFocus);
+            }
+        };
+        jComboBox1.setRenderer(renderer);
 
         GroupLayout layout = new GroupLayout(this);
         this.setLayout(layout);
@@ -180,6 +179,7 @@ public class ConnectionPanel extends javax.swing.JPanel {
         );
     }// </editor-fold>//GEN-END:initComponents
     // Variables declaration - do not modify//GEN-BEGIN:variables
+    @SuppressWarnings("rawtypes")
     private JComboBox jComboBox1;
     private JLabel jLabel1;
     // End of variables declaration//GEN-END:variables

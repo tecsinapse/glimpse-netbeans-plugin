@@ -42,15 +42,14 @@
     </Component>
     <Component class="javax.swing.JComboBox" name="jComboBox1">
       <Properties>
-        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
-          <StringArray count="4">
-            <StringItem index="0" value="Item 1"/>
-            <StringItem index="1" value="Item 2"/>
-            <StringItem index="2" value="Item 3"/>
-            <StringItem index="3" value="Item 4"/>
-          </StringArray>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.RADConnectionPropertyEditor">
+          <Connection code="model" type="code"/>
         </Property>
       </Properties>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_DeclarationPre" type="java.lang.String" value="@SuppressWarnings(&quot;rawtypes&quot;)"/>
+        <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="ListCellRenderer renderer = new DefaultListCellRenderer() {&#xa;            @Override&#xa;        public Component getListCellRendererComponent(JList&lt;?&gt; list, Object value, int index,&#xa;                    boolean isSelected, boolean cellHasFocus) {&#xa;                Object nValue = value;&#xa;                if (value instanceof GlimpseConnector) {&#xa;                    nValue = ((GlimpseConnector) value).getName();&#xa;                }&#xa;                return super.getListCellRendererComponent(list, nValue, index,&#xa;                        isSelected, cellHasFocus);&#xa;            }&#xa;        };&#xa;jComboBox1.setRenderer(renderer);"/>
+      </AuxValues>
     </Component>
   </SubComponents>
 </Form>
