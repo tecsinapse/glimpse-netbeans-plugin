@@ -1,5 +1,6 @@
 Manifest-Version: 1.0
 OpenIDE-Module: br.com.tecsinapse.glimpse_netbeans
+OpenIDE-Module-Install: br/com/tecsinapse/glimpse_netbeans/Installer.class
 OpenIDE-Module-Layer: br/com/tecsinapse/glimpse_netbeans/layer.xml
 OpenIDE-Module-Localizing-Bundle: br/com/tecsinapse/glimpse_netbeans/Bundle.properties
 OpenIDE-Module-Specification-Version: 1.0
