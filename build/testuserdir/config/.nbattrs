@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE attributes PUBLIC "-//NetBeans//DTD DefaultAttributes 1.0//EN" "http://www.netbeans.org/dtds/attributes-1_0.dtd">
-<attributes version="1.0">
-    <fileobject name="">
-        <attr name="glimpse\connectors\instance\name" stringvalue="MB"/>
-        <attr name="glimpse\connectors\instance\url" stringvalue="http://localhost:80961"/>
-        <attr name="glimpse\connectors\instance\username" stringvalue="MB"/>
-    </fileobject>
-</attributes>
