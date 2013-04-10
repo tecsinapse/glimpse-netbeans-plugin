@@ -1,0 +1,1 @@
+ERROR:25:stub_DOM_CSSImportRule.js\d25\d47 Expected ; but found \d\nCSSImportRule.prototype.media = new stylesheets\d\dMediaList();\n                                               ^

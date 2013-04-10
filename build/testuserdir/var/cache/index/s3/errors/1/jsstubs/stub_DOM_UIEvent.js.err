@@ -1,0 +1,1 @@
+ERROR:30:stub_DOM_UIEvent.js\d30\d34 Expected ; but found \d\nUIEvent.prototype.view = new views\d\dAbstractView();\n                                  ^

@@ -1,0 +1,1 @@
+ERROR:26:stub_DOM_CSSMediaRule.js\d26\d46 Expected ; but found \d\nCSSMediaRule.prototype.media = new stylesheets\d\dMediaList();\n                                              ^

@@ -1,0 +1,18 @@
+#Mon Apr 01 20:16:59 BRT 2013
+s9=jar\:file\:/usr/lib/jvm/jdk1.7.0_17/jre/lib/charsets.jar\!/
+s17=jar\:file\:/usr/lib/jvm/jdk1.7.0_17/jre/lib/ext/sunjce_provider.jar\!/
+s8=jar\:file\:/usr/lib/jvm/jdk1.7.0_17/jre/lib/jce.jar\!/
+s16=jar\:file\:/usr/lib/jvm/jdk1.7.0_17/jre/lib/ext/zipfs.jar\!/
+s7=jar\:file\:/usr/lib/jvm/jdk1.7.0_17/jre/lib/jsse.jar\!/
+s15=jar\:file\:/usr/lib/jvm/jdk1.7.0_17/jre/lib/ext/dnsns.jar\!/
+s6=jar\:file\:/usr/lib/jvm/jdk1.7.0_17/jre/lib/sunrsasign.jar\!/
+s14=jar\:file\:/usr/lib/jvm/jdk1.7.0_17/jre/lib/ext/localedata.jar\!/
+s5=jar\:file\:/usr/lib/jvm/jdk1.7.0_17/jre/lib/rt.jar\!/
+s13=jar\:file\:/usr/lib/jvm/jdk1.7.0_17/jre/lib/ext/sunec.jar\!/
+s4=jar\:file\:/usr/lib/jvm/jdk1.7.0_17/jre/lib/resources.jar\!/
+s12=jar\:file\:/usr/lib/jvm/jdk1.7.0_17/jre/lib/ext/sunpkcs11.jar\!/
+s3=jar\:file\:/home/janario/Programs/Java/NetBeans/netbeans-trunk/main-silver/nbbuild/netbeans/ide/jsstubs/domstubs.zip\!/
+s11=file\:/usr/lib/jvm/jdk1.7.0_17/jre/classes/
+s2=jar\:file\:/home/janario/Programs/Java/NetBeans/netbeans-trunk/main-silver/nbbuild/netbeans/ide/jsstubs/corestubs.zip\!/
+s10=jar\:file\:/usr/lib/jvm/jdk1.7.0_17/jre/lib/jfr.jar\!/
+s1=jar\:file\:/home/janario/Programs/Java/NetBeans/netbeans-trunk/main-silver/nbbuild/netbeans/ide/jsstubs/reststubs.zip\!/

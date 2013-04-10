@@ -1,0 +1,3415 @@
+<record>
+  <date>2013-04-01T20:05:57</date>
+  <millis>1364857557749</millis>
+  <sequence>39</sequence>
+  <level>FINEST</level>
+  <thread>16</thread>
+  <message>CPU INFO</message>
+  <param>8</param>
+</record>
+<record>
+  <date>2013-04-01T20:05:57</date>
+  <millis>1364857557752</millis>
+  <sequence>40</sequence>
+  <level>FINEST</level>
+  <thread>16</thread>
+  <message>SCREEN SIZE</message>
+  <param>1366</param>
+  <param>768</param>
+  <param>1</param>
+</record>
+<record>
+  <date>2013-04-01T20:05:57</date>
+  <millis>1364857557752</millis>
+  <sequence>41</sequence>
+  <level>CONFIG</level>
+  <thread>16</thread>
+  <message>IDE_STARTUP</message>
+</record>
+<record>
+  <date>2013-04-01T20:06:07</date>
+  <millis>1364857567875</millis>
+  <sequence>58</sequence>
+  <logger>org.netbeans.ui.metrics.projects</logger>
+  <level>INFO</level>
+  <thread>21</thread>
+  <message>USG_SHOW_START_PAGE</message>
+  <key>USG_SHOW_START_PAGE</key>
+  <catalog>org.netbeans.modules.welcome.resources.Bundle</catalog>
+  <param>false</param>
+</record>
+<record>
+  <date>2013-04-01T20:06:08</date>
+  <millis>1364857568882</millis>
+  <sequence>64</sequence>
+  <logger></logger>
+  <level>INFO</level>
+  <thread>50</thread>
+  <message>Premature end of file.</message>
+  <exception>
+    <message>org.xml.sax.SAXParseException; lineNumber: 1; columnNumber: 1; Premature end of file.</message>
+    <frame>
+      <class>com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser</class>
+      <method>parse</method>
+      <line>1236</line>
+      <file>${java.home}lib/rt.jar</file>
+    </frame>
+    <frame>
+      <class>com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser</class>
+      <method>parse</method>
+      <line>568</line>
+      <file>${java.home}lib/rt.jar</file>
+    </frame>
+    <frame>
+      <class>org.netbeans.modules.welcome.content.RSSFeed</class>
+      <method>buildItemList</method>
+      <line>189</line>
+      <file>${netBeansDir}modules/org-netbeans-modules-welcome.jar</file>
+    </frame>
+    <frame>
+      <class>org.netbeans.modules.welcome.content.RSSFeed$Reload</class>
+      <method>run</method>
+      <line>291</line>
+      <file>${netBeansDir}modules/org-netbeans-modules-welcome.jar</file>
+    </frame>
+  </exception>
+</record>
+<record>
+  <date>2013-04-01T20:06:10</date>
+  <millis>1364857570332</millis>
+  <sequence>67</sequence>
+  <level>INFO</level>
+  <thread>30</thread>
+  <message>MEMORY</message>
+  <key>MEMORY</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>8237469696</param>
+</record>
+<record>
+  <date>2013-04-01T20:06:18</date>
+  <millis>1364857578987</millis>
+  <sequence>73</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>21</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Actions$MenuItem[Add Connection]</param>
+  <param>org.openide.awt.Actions$MenuItem</param>
+  <param>br.com.tecsinapse.glimpse_netbeans.service.RootNode$AddAction[Add Connection]</param>
+  <param>br.com.tecsinapse.glimpse_netbeans.service.RootNode$AddAction</param>
+  <param>Add Connection</param>
+</record>
+<record>
+  <date>2013-04-01T20:06:51</date>
+  <millis>1364857611324</millis>
+  <sequence>81</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>21</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Actions$MenuItem[Execute Glimpse]</param>
+  <param>org.openide.awt.Actions$MenuItem</param>
+  <param>br.com.tecsinapse.glimpse_netbeans.service.TempGlimpseAction[Execute Glimpse]</param>
+  <param>br.com.tecsinapse.glimpse_netbeans.service.TempGlimpseAction</param>
+  <param>Execute Glimpse</param>
+</record>
+<record>
+  <date>2013-04-01T20:07:18</date>
+  <millis>1364857638335</millis>
+  <sequence>184</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>INFO</level>
+  <thread>30</thread>
+  <message>INDEXING_STARTED</message>
+  <key>INDEXING_STARTED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>0</param>
+</record>
+<record>
+  <date>2013-04-01T20:07:22</date>
+  <millis>1364857642788</millis>
+  <sequence>638</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>INFO</level>
+  <thread>30</thread>
+  <message>INDEXING_FINISHED</message>
+  <key>INDEXING_FINISHED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>4452</param>
+  <param>TaskListIndexer</param>
+  <param>3</param>
+  <param>1</param>
+  <param>js</param>
+  <param>175</param>
+  <param>948</param>
+  <param>jsfCustomIndexer</param>
+  <param>3</param>
+  <param>40</param>
+  <param>TLIndexer</param>
+  <param>175</param>
+  <param>238</param>
+  <param>org.netbeans.modules.java.source.indexing.COSSynchronizingIndexer</param>
+  <param>3</param>
+  <param>0</param>
+  <param>org-netbeans-modules-jumpto-file-FileIndexer</param>
+  <param>3</param>
+  <param>16</param>
+</record>
+<record>
+  <date>2013-04-01T20:07:23</date>
+  <millis>1364857643992</millis>
+  <sequence>647</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>21</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-04-01T20:07:31</date>
+  <millis>1364857651734</millis>
+  <sequence>648</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>21</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-04-01T20:07:32</date>
+  <millis>1364857652063</millis>
+  <sequence>649</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>30</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>456</param>
+</record>
+<record>
+  <date>2013-04-01T20:07:38</date>
+  <millis>1364857658694</millis>
+  <sequence>650</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>30</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>87</param>
+</record>
+<record>
+  <date>2013-04-01T20:07:57</date>
+  <millis>1364857677626</millis>
+  <sequence>654</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>21</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Actions$MenuItem[Favorites]</param>
+  <param>org.openide.awt.Actions$MenuItem</param>
+  <param>org.openide.awt.AlwaysEnabledAction[Favor&amp;ites]</param>
+  <param>org.openide.awt.AlwaysEnabledAction</param>
+  <param>Favor&amp;ites</param>
+</record>
+<record>
+  <date>2013-04-01T20:08:52</date>
+  <millis>1364857732943</millis>
+  <sequence>686</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>21</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-04-01T20:09:09</date>
+  <millis>1364857749095</millis>
+  <sequence>687</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>21</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-04-01T20:09:09</date>
+  <millis>1364857749292</millis>
+  <sequence>688</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>65</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>168</param>
+</record>
+<record>
+  <date>2013-04-01T20:09:18</date>
+  <millis>1364857758996</millis>
+  <sequence>692</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>65</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>70</param>
+</record>
+<record>
+  <date>2013-04-01T20:10:18</date>
+  <millis>1364857818956</millis>
+  <sequence>699</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>21</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-04-01T20:10:47</date>
+  <millis>1364857847169</millis>
+  <sequence>700</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>21</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-04-01T20:10:47</date>
+  <millis>1364857847188</millis>
+  <sequence>701</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>65</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>160</param>
+</record>
+<record>
+  <date>2013-04-01T20:10:53</date>
+  <millis>1364857853200</millis>
+  <sequence>702</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>21</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-04-01T20:10:53</date>
+  <millis>1364857853423</millis>
+  <sequence>703</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>75</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>86</param>
+</record>
+<record>
+  <date>2013-04-01T20:15:39</date>
+  <millis>1364858139017</millis>
+  <sequence>41</sequence>
+  <level>FINEST</level>
+  <thread>13</thread>
+  <message>CPU INFO</message>
+  <param>8</param>
+</record>
+<record>
+  <date>2013-04-01T20:15:39</date>
+  <millis>1364858139018</millis>
+  <sequence>42</sequence>
+  <level>FINEST</level>
+  <thread>13</thread>
+  <message>SCREEN SIZE</message>
+  <param>1366</param>
+  <param>768</param>
+  <param>1</param>
+</record>
+<record>
+  <date>2013-04-01T20:15:39</date>
+  <millis>1364858139019</millis>
+  <sequence>43</sequence>
+  <level>CONFIG</level>
+  <thread>13</thread>
+  <message>IDE_STARTUP</message>
+</record>
+<record>
+  <date>2013-04-01T20:15:43</date>
+  <millis>1364858143849</millis>
+  <sequence>60</sequence>
+  <level>INFO</level>
+  <thread>31</thread>
+  <message>MEMORY</message>
+  <key>MEMORY</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>8237469696</param>
+</record>
+<record>
+  <date>2013-04-01T20:15:58</date>
+  <millis>1364858158304</millis>
+  <sequence>64</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>18</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Actions$MenuItem[Favorites]</param>
+  <param>org.openide.awt.Actions$MenuItem</param>
+  <param>org.openide.awt.AlwaysEnabledAction[Favor&amp;ites]</param>
+  <param>org.openide.awt.AlwaysEnabledAction</param>
+  <param>Favor&amp;ites</param>
+</record>
+<record>
+  <date>2013-04-01T20:15:59</date>
+  <millis>1364858159528</millis>
+  <sequence>65</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>18</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Toolbar$DefaultIconButton[]</param>
+  <param>org.openide.awt.Toolbar$DefaultIconButton</param>
+  <param>org.openide.awt.AlwaysEnabledAction[Synchronize]</param>
+  <param>org.openide.awt.AlwaysEnabledAction</param>
+  <param>Synchronize</param>
+</record>
+<record>
+  <date>2013-04-01T20:15:59</date>
+  <millis>1364858159532</millis>
+  <sequence>66</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>org.openide.awt.Toolbar$DefaultIconButton[]</param>
+  <param>org.openide.awt.Toolbar$DefaultIconButton</param>
+  <param>org.netbeans.modules.project.ui.actions.MainProjectAction[]</param>
+  <param>org.netbeans.modules.project.ui.actions.MainProjectAction</param>
+  <param></param>
+</record>
+<record>
+  <date>2013-04-01T20:16:08</date>
+  <millis>1364858168632</millis>
+  <sequence>67</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>18</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Actions$MenuItem[Services]</param>
+  <param>org.openide.awt.Actions$MenuItem</param>
+  <param>org.openide.awt.AlwaysEnabledAction[&amp;Services]</param>
+  <param>org.openide.awt.AlwaysEnabledAction</param>
+  <param>&amp;Services</param>
+</record>
+<record>
+  <date>2013-04-01T20:16:24</date>
+  <millis>1364858184406</millis>
+  <sequence>104</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>INFO</level>
+  <thread>34</thread>
+  <message>INDEXING_STARTED</message>
+  <key>INDEXING_STARTED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>0</param>
+</record>
+<record>
+  <date>2013-04-01T20:16:24</date>
+  <millis>1364858184906</millis>
+  <sequence>117</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>INFO</level>
+  <thread>34</thread>
+  <message>INDEXING_FINISHED</message>
+  <key>INDEXING_FINISHED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>499</param>
+  <param>TaskListIndexer</param>
+  <param>3</param>
+  <param>1</param>
+  <param>jsfCustomIndexer</param>
+  <param>3</param>
+  <param>3</param>
+  <param>org.netbeans.modules.java.source.indexing.COSSynchronizingIndexer</param>
+  <param>3</param>
+  <param>0</param>
+  <param>org-netbeans-modules-jumpto-file-FileIndexer</param>
+  <param>3</param>
+  <param>1</param>
+</record>
+<record>
+  <date>2013-04-01T20:16:43</date>
+  <millis>1364858203812</millis>
+  <sequence>141</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-04-01T20:16:46</date>
+  <millis>1364858206060</millis>
+  <sequence>142</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>21</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>279</param>
+</record>
+<record>
+  <date>2013-04-01T20:16:48</date>
+  <millis>1364858208235</millis>
+  <sequence>143</sequence>
+  <logger>org.netbeans.ui.actions.editor</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>UI_ACTION_EDITOR</message>
+  <key>UI_ACTION_EDITOR</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Enter,when=1364858208231,modifiers=] on org.openide.text.QuietEditorPane[,0,0,775x310,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@52a88ee7,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=197,g=193,b=189],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=240,g=119,b=70],kit=org.netbeans.modules.csl.core.CslEditorKit@3f0a7cd,typeHandlers=]</param>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Enter,when=1364858208231,modifiers=] on org.openide.text.QuietEditorPane[,0,0,775x310,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@52a88ee7,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=197,g=193,b=189],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=240,g=119,b=70],kit=org.netbeans.modules.csl.core.CslEditorKit@3f0a7cd,typeHandlers=]</param>
+  <param>org.netbeans.modules.csl.core.CslEditorKit$GsfInsertBreakAction[insert-break]</param>
+  <param>org.netbeans.modules.csl.core.CslEditorKit$GsfInsertBreakAction@2ca1c658</param>
+  <param>insert-break</param>
+</record>
+<record>
+  <date>2013-04-01T20:16:48</date>
+  <millis>1364858208400</millis>
+  <sequence>146</sequence>
+  <logger>org.netbeans.ui.actions.editor</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>UI_ACTION_EDITOR</message>
+  <key>UI_ACTION_EDITOR</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Enter,when=1364858208396,modifiers=] on org.openide.text.QuietEditorPane[,0,0,762x319,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@52a88ee7,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=197,g=193,b=189],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=240,g=119,b=70],kit=org.netbeans.modules.csl.core.CslEditorKit@3f0a7cd,typeHandlers=]</param>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Enter,when=1364858208396,modifiers=] on org.openide.text.QuietEditorPane[,0,0,762x319,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@52a88ee7,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=197,g=193,b=189],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=240,g=119,b=70],kit=org.netbeans.modules.csl.core.CslEditorKit@3f0a7cd,typeHandlers=]</param>
+  <param>org.netbeans.modules.csl.core.CslEditorKit$GsfInsertBreakAction[insert-break]</param>
+  <param>org.netbeans.modules.csl.core.CslEditorKit$GsfInsertBreakAction@2ca1c658</param>
+  <param>insert-break</param>
+</record>
+<record>
+  <date>2013-04-01T20:16:48</date>
+  <millis>1364858208557</millis>
+  <sequence>147</sequence>
+  <logger>org.netbeans.ui.actions.editor</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>UI_ACTION_EDITOR</message>
+  <key>UI_ACTION_EDITOR</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Enter,when=1364858208552,modifiers=] on org.openide.text.QuietEditorPane[,0,0,762x337,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@52a88ee7,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=197,g=193,b=189],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=240,g=119,b=70],kit=org.netbeans.modules.csl.core.CslEditorKit@3f0a7cd,typeHandlers=]</param>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Enter,when=1364858208552,modifiers=] on org.openide.text.QuietEditorPane[,0,0,762x337,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@52a88ee7,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=197,g=193,b=189],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=240,g=119,b=70],kit=org.netbeans.modules.csl.core.CslEditorKit@3f0a7cd,typeHandlers=]</param>
+  <param>org.netbeans.modules.csl.core.CslEditorKit$GsfInsertBreakAction[insert-break]</param>
+  <param>org.netbeans.modules.csl.core.CslEditorKit$GsfInsertBreakAction@2ca1c658</param>
+  <param>insert-break</param>
+</record>
+<record>
+  <date>2013-04-01T20:16:58</date>
+  <millis>1364858218407</millis>
+  <sequence>172</sequence>
+  <logger>org.netbeans.ui.editor.completion</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>COMPL_INVOCATION</message>
+  <key>COMPL_INVOCATION</key>
+  <catalog>org.netbeans.modules.editor.completion.Bundle</catalog>
+  <param>true</param>
+</record>
+<record>
+  <date>2013-04-01T20:17:02</date>
+  <millis>1364858222430</millis>
+  <sequence>227</sequence>
+  <logger>org.netbeans.ui.editor.completion</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>COMPL_CANCEL</message>
+  <key>COMPL_CANCEL</key>
+  <catalog>org.netbeans.modules.editor.completion.Bundle</catalog>
+</record>
+<record>
+  <date>2013-04-01T20:17:08</date>
+  <millis>1364858228626</millis>
+  <sequence>230</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>18</thread>
+  <message>UI_ACTION_KEY_PRESS</message>
+  <key>UI_ACTION_KEY_PRESS</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>ctrl pressed S</param>
+  <param>ctrl pressed S</param>
+  <param>org.openide.awt.GeneralAction$DelegateAction@e2f03775[key=null]</param>
+  <param>org.openide.awt.GeneralAction$DelegateAction</param>
+  <param>&amp;Save</param>
+</record>
+<record>
+  <date>2013-04-01T20:17:09</date>
+  <millis>1364858229629</millis>
+  <sequence>240</sequence>
+  <logger>org.netbeans.ui.actions.editor</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>UI_ACTION_EDITOR</message>
+  <key>UI_ACTION_EDITOR</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Alt+Shift+F,when=1364858229599,modifiers=Alt+Shift] on org.openide.text.QuietEditorPane[,0,0,775x310,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@52a88ee7,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=197,g=193,b=189],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=240,g=119,b=70],kit=org.netbeans.modules.csl.core.CslEditorKit@3f0a7cd,typeHandlers=]</param>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Alt+Shift+F,when=1364858229599,modifiers=Alt+Shift] on org.openide.text.QuietEditorPane[,0,0,775x310,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@52a88ee7,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=197,g=193,b=189],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=240,g=119,b=70],kit=org.netbeans.modules.csl.core.CslEditorKit@3f0a7cd,typeHandlers=]</param>
+  <param>org.netbeans.editor.ActionFactory$FormatAction[format]</param>
+  <param>org.netbeans.editor.ActionFactory$FormatAction@5125a454</param>
+  <param>format</param>
+</record>
+<record>
+  <date>2013-04-01T20:17:21</date>
+  <millis>1364858241835</millis>
+  <sequence>255</sequence>
+  <logger>org.netbeans.ui.actions.editor</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>UI_ACTION_EDITOR</message>
+  <key>UI_ACTION_EDITOR</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Enter,when=1364858241831,modifiers=] on org.openide.text.QuietEditorPane[,0,0,775x310,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@52a88ee7,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=197,g=193,b=189],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=240,g=119,b=70],kit=org.netbeans.modules.csl.core.CslEditorKit@3f0a7cd,typeHandlers=]</param>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Enter,when=1364858241831,modifiers=] on org.openide.text.QuietEditorPane[,0,0,775x310,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@52a88ee7,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=197,g=193,b=189],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=240,g=119,b=70],kit=org.netbeans.modules.csl.core.CslEditorKit@3f0a7cd,typeHandlers=]</param>
+  <param>org.netbeans.modules.csl.core.CslEditorKit$GsfInsertBreakAction[insert-break]</param>
+  <param>org.netbeans.modules.csl.core.CslEditorKit$GsfInsertBreakAction@2ca1c658</param>
+  <param>insert-break</param>
+</record>
+<record>
+  <date>2013-04-01T20:17:23</date>
+  <millis>1364858243083</millis>
+  <sequence>257</sequence>
+  <logger>org.netbeans.ui.editor.completion</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>COMPL_INVOCATION</message>
+  <key>COMPL_INVOCATION</key>
+  <catalog>org.netbeans.modules.editor.completion.Bundle</catalog>
+  <param>true</param>
+</record>
+<record>
+  <date>2013-04-01T20:17:26</date>
+  <millis>1364858246711</millis>
+  <sequence>286</sequence>
+  <logger>org.netbeans.ui.editor.completion</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>COMPL_INVOCATION</message>
+  <key>COMPL_INVOCATION</key>
+  <catalog>org.netbeans.modules.editor.completion.Bundle</catalog>
+  <param>true</param>
+</record>
+<record>
+  <date>2013-04-01T20:17:28</date>
+  <millis>1364858248627</millis>
+  <sequence>298</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>18</thread>
+  <message>UI_ACTION_KEY_PRESS</message>
+  <key>UI_ACTION_KEY_PRESS</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>ctrl pressed S</param>
+  <param>ctrl pressed S</param>
+  <param>org.openide.awt.GeneralAction$DelegateAction@e2f03775[key=null]</param>
+  <param>org.openide.awt.GeneralAction$DelegateAction</param>
+  <param>&amp;Save</param>
+</record>
+<record>
+  <date>2013-04-01T20:17:32</date>
+  <millis>1364858252566</millis>
+  <sequence>321</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-04-01T20:17:36</date>
+  <millis>1364858256785</millis>
+  <sequence>322</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-04-01T20:17:36</date>
+  <millis>1364858256921</millis>
+  <sequence>323</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>21</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>73</param>
+</record>
+<record>
+  <date>2013-04-01T20:18:05</date>
+  <millis>1364858285503</millis>
+  <sequence>324</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-04-01T20:18:06</date>
+  <millis>1364858286160</millis>
+  <sequence>325</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>21</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>68</param>
+</record>
+<record>
+  <date>2013-04-01T20:18:10</date>
+  <millis>1364858290951</millis>
+  <sequence>326</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>21</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>252</param>
+</record>
+<record>
+  <date>2013-04-01T20:18:13</date>
+  <millis>1364858293195</millis>
+  <sequence>327</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-04-01T20:18:50</date>
+  <millis>1364858330698</millis>
+  <sequence>328</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>21</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>71</param>
+</record>
+<record>
+  <date>2013-04-01T20:20:05</date>
+  <millis>1364858405276</millis>
+  <sequence>379</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-04-01T20:20:08</date>
+  <millis>1364858408165</millis>
+  <sequence>386</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>21</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>75</param>
+</record>
+<record>
+  <date>2013-04-01T20:20:27</date>
+  <millis>1364858427555</millis>
+  <sequence>401</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-04-01T20:20:36</date>
+  <millis>1364858436724</millis>
+  <sequence>402</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>21</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>74</param>
+</record>
+<record>
+  <date>2013-04-01T20:20:42</date>
+  <millis>1364858442681</millis>
+  <sequence>403</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-04-01T20:21:19</date>
+  <millis>1364858479161</millis>
+  <sequence>404</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>21</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>82</param>
+</record>
+<record>
+  <date>2013-04-01T20:21:42</date>
+  <millis>1364858502714</millis>
+  <sequence>405</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-04-01T20:21:47</date>
+  <millis>1364858507055</millis>
+  <sequence>406</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>21</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>760</param>
+</record>
+<record>
+  <date>2013-04-01T20:22:56</date>
+  <millis>1364858576392</millis>
+  <sequence>410</sequence>
+  <logger>org.netbeans.ui.actions.editor</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>UI_ACTION_EDITOR</message>
+  <key>UI_ACTION_EDITOR</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Ctrl+Z,when=1364858576386,modifiers=Ctrl] on org.openide.text.QuietEditorPane[,0,0,775x310,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@52a88ee7,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=197,g=193,b=189],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=240,g=119,b=70],kit=org.netbeans.modules.csl.core.CslEditorKit@3f0a7cd,typeHandlers=]</param>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Ctrl+Z,when=1364858576386,modifiers=Ctrl] on org.openide.text.QuietEditorPane[,0,0,775x310,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@52a88ee7,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=197,g=193,b=189],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=240,g=119,b=70],kit=org.netbeans.modules.csl.core.CslEditorKit@3f0a7cd,typeHandlers=]</param>
+  <param>org.netbeans.modules.editor.NbEditorKit$NbUndoAction[undo]</param>
+  <param>org.netbeans.modules.editor.NbEditorKit$NbUndoAction@7e2e0c1c</param>
+  <param>undo</param>
+</record>
+<record>
+  <date>2013-04-01T20:22:57</date>
+  <millis>1364858577521</millis>
+  <sequence>421</sequence>
+  <logger>org.netbeans.ui.actions.editor</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>UI_ACTION_EDITOR</message>
+  <key>UI_ACTION_EDITOR</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Ctrl+Z,when=1364858577517,modifiers=Ctrl] on org.openide.text.QuietEditorPane[,0,0,775x310,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@52a88ee7,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=197,g=193,b=189],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=240,g=119,b=70],kit=org.netbeans.modules.csl.core.CslEditorKit@3f0a7cd,typeHandlers=]</param>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Ctrl+Z,when=1364858577517,modifiers=Ctrl] on org.openide.text.QuietEditorPane[,0,0,775x310,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@52a88ee7,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=197,g=193,b=189],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=240,g=119,b=70],kit=org.netbeans.modules.csl.core.CslEditorKit@3f0a7cd,typeHandlers=]</param>
+  <param>org.netbeans.modules.editor.NbEditorKit$NbUndoAction[undo]</param>
+  <param>org.netbeans.modules.editor.NbEditorKit$NbUndoAction@7e2e0c1c</param>
+  <param>undo</param>
+</record>
+<record>
+  <date>2013-04-01T20:22:58</date>
+  <millis>1364858578555</millis>
+  <sequence>432</sequence>
+  <logger>org.netbeans.ui.actions.editor</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>UI_ACTION_EDITOR</message>
+  <key>UI_ACTION_EDITOR</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Ctrl+Z,when=1364858578550,modifiers=Ctrl] on org.openide.text.QuietEditorPane[,0,0,775x310,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@52a88ee7,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=197,g=193,b=189],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=240,g=119,b=70],kit=org.netbeans.modules.csl.core.CslEditorKit@3f0a7cd,typeHandlers=]</param>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Ctrl+Z,when=1364858578550,modifiers=Ctrl] on org.openide.text.QuietEditorPane[,0,0,775x310,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@52a88ee7,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=197,g=193,b=189],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=240,g=119,b=70],kit=org.netbeans.modules.csl.core.CslEditorKit@3f0a7cd,typeHandlers=]</param>
+  <param>org.netbeans.modules.editor.NbEditorKit$NbUndoAction[undo]</param>
+  <param>org.netbeans.modules.editor.NbEditorKit$NbUndoAction@7e2e0c1c</param>
+  <param>undo</param>
+</record>
+<record>
+  <date>2013-04-01T20:22:59</date>
+  <millis>1364858579500</millis>
+  <sequence>443</sequence>
+  <logger>org.netbeans.ui.actions.editor</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>UI_ACTION_EDITOR</message>
+  <key>UI_ACTION_EDITOR</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Ctrl+Z,when=1364858579496,modifiers=Ctrl] on org.openide.text.QuietEditorPane[,0,0,762x319,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@52a88ee7,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=197,g=193,b=189],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=240,g=119,b=70],kit=org.netbeans.modules.csl.core.CslEditorKit@3f0a7cd,typeHandlers=]</param>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Ctrl+Z,when=1364858579496,modifiers=Ctrl] on org.openide.text.QuietEditorPane[,0,0,762x319,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@52a88ee7,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=197,g=193,b=189],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=240,g=119,b=70],kit=org.netbeans.modules.csl.core.CslEditorKit@3f0a7cd,typeHandlers=]</param>
+  <param>org.netbeans.modules.editor.NbEditorKit$NbUndoAction[undo]</param>
+  <param>org.netbeans.modules.editor.NbEditorKit$NbUndoAction@7e2e0c1c</param>
+  <param>undo</param>
+</record>
+<record>
+  <date>2013-04-01T20:23:00</date>
+  <millis>1364858580183</millis>
+  <sequence>454</sequence>
+  <logger>org.netbeans.ui.actions.editor</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>UI_ACTION_EDITOR</message>
+  <key>UI_ACTION_EDITOR</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Ctrl+Z,when=1364858580177,modifiers=Ctrl] on org.openide.text.QuietEditorPane[,0,0,762x319,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@52a88ee7,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=197,g=193,b=189],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=240,g=119,b=70],kit=org.netbeans.modules.csl.core.CslEditorKit@3f0a7cd,typeHandlers=]</param>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Ctrl+Z,when=1364858580177,modifiers=Ctrl] on org.openide.text.QuietEditorPane[,0,0,762x319,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@52a88ee7,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=197,g=193,b=189],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=240,g=119,b=70],kit=org.netbeans.modules.csl.core.CslEditorKit@3f0a7cd,typeHandlers=]</param>
+  <param>org.netbeans.modules.editor.NbEditorKit$NbUndoAction[undo]</param>
+  <param>org.netbeans.modules.editor.NbEditorKit$NbUndoAction@7e2e0c1c</param>
+  <param>undo</param>
+</record>
+<record>
+  <date>2013-04-01T20:23:00</date>
+  <millis>1364858580716</millis>
+  <sequence>457</sequence>
+  <logger>org.netbeans.ui.actions.editor</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>UI_ACTION_EDITOR</message>
+  <key>UI_ACTION_EDITOR</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Ctrl+Z,when=1364858580714,modifiers=Ctrl] on org.openide.text.QuietEditorPane[,0,0,762x319,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@52a88ee7,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=197,g=193,b=189],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=240,g=119,b=70],kit=org.netbeans.modules.csl.core.CslEditorKit@3f0a7cd,typeHandlers=]</param>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Ctrl+Z,when=1364858580714,modifiers=Ctrl] on org.openide.text.QuietEditorPane[,0,0,762x319,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@52a88ee7,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=197,g=193,b=189],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=240,g=119,b=70],kit=org.netbeans.modules.csl.core.CslEditorKit@3f0a7cd,typeHandlers=]</param>
+  <param>org.netbeans.modules.editor.NbEditorKit$NbUndoAction[undo]</param>
+  <param>org.netbeans.modules.editor.NbEditorKit$NbUndoAction@7e2e0c1c</param>
+  <param>undo</param>
+</record>
+<record>
+  <date>2013-04-01T20:23:01</date>
+  <millis>1364858581933</millis>
+  <sequence>468</sequence>
+  <logger>org.netbeans.ui.actions.editor</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>UI_ACTION_EDITOR</message>
+  <key>UI_ACTION_EDITOR</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Ctrl+Z,when=1364858581928,modifiers=Ctrl] on org.openide.text.QuietEditorPane[,0,0,775x310,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@52a88ee7,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=197,g=193,b=189],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=240,g=119,b=70],kit=org.netbeans.modules.csl.core.CslEditorKit@3f0a7cd,typeHandlers=]</param>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Ctrl+Z,when=1364858581928,modifiers=Ctrl] on org.openide.text.QuietEditorPane[,0,0,775x310,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@52a88ee7,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=197,g=193,b=189],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=240,g=119,b=70],kit=org.netbeans.modules.csl.core.CslEditorKit@3f0a7cd,typeHandlers=]</param>
+  <param>org.netbeans.modules.editor.NbEditorKit$NbUndoAction[undo]</param>
+  <param>org.netbeans.modules.editor.NbEditorKit$NbUndoAction@7e2e0c1c</param>
+  <param>undo</param>
+</record>
+<record>
+  <date>2013-04-01T20:23:02</date>
+  <millis>1364858582796</millis>
+  <sequence>479</sequence>
+  <logger>org.netbeans.ui.actions.editor</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>UI_ACTION_EDITOR</message>
+  <key>UI_ACTION_EDITOR</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Ctrl+Z,when=1364858582791,modifiers=Ctrl] on org.openide.text.QuietEditorPane[,0,0,762x337,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@52a88ee7,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=197,g=193,b=189],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=240,g=119,b=70],kit=org.netbeans.modules.csl.core.CslEditorKit@3f0a7cd,typeHandlers=]</param>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Ctrl+Z,when=1364858582791,modifiers=Ctrl] on org.openide.text.QuietEditorPane[,0,0,762x337,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@52a88ee7,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=197,g=193,b=189],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=240,g=119,b=70],kit=org.netbeans.modules.csl.core.CslEditorKit@3f0a7cd,typeHandlers=]</param>
+  <param>org.netbeans.modules.editor.NbEditorKit$NbUndoAction[undo]</param>
+  <param>org.netbeans.modules.editor.NbEditorKit$NbUndoAction@7e2e0c1c</param>
+  <param>undo</param>
+</record>
+<record>
+  <date>2013-04-01T20:23:03</date>
+  <millis>1364858583323</millis>
+  <sequence>481</sequence>
+  <logger>org.netbeans.ui.actions.editor</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>UI_ACTION_EDITOR</message>
+  <key>UI_ACTION_EDITOR</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Ctrl+Z,when=1364858583319,modifiers=Ctrl] on org.openide.text.QuietEditorPane[,0,0,762x319,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@52a88ee7,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=197,g=193,b=189],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=240,g=119,b=70],kit=org.netbeans.modules.csl.core.CslEditorKit@3f0a7cd,typeHandlers=]</param>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Ctrl+Z,when=1364858583319,modifiers=Ctrl] on org.openide.text.QuietEditorPane[,0,0,762x319,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@52a88ee7,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=197,g=193,b=189],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=240,g=119,b=70],kit=org.netbeans.modules.csl.core.CslEditorKit@3f0a7cd,typeHandlers=]</param>
+  <param>org.netbeans.modules.editor.NbEditorKit$NbUndoAction[undo]</param>
+  <param>org.netbeans.modules.editor.NbEditorKit$NbUndoAction@7e2e0c1c</param>
+  <param>undo</param>
+</record>
+<record>
+  <date>2013-04-01T20:23:03</date>
+  <millis>1364858583866</millis>
+  <sequence>484</sequence>
+  <logger>org.netbeans.ui.actions.editor</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>UI_ACTION_EDITOR</message>
+  <key>UI_ACTION_EDITOR</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Ctrl+Z,when=1364858583861,modifiers=Ctrl] on org.openide.text.QuietEditorPane[,0,0,762x355,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@52a88ee7,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=197,g=193,b=189],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=240,g=119,b=70],kit=org.netbeans.modules.csl.core.CslEditorKit@3f0a7cd,typeHandlers=]</param>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Ctrl+Z,when=1364858583861,modifiers=Ctrl] on org.openide.text.QuietEditorPane[,0,0,762x355,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@52a88ee7,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=197,g=193,b=189],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=240,g=119,b=70],kit=org.netbeans.modules.csl.core.CslEditorKit@3f0a7cd,typeHandlers=]</param>
+  <param>org.netbeans.modules.editor.NbEditorKit$NbUndoAction[undo]</param>
+  <param>org.netbeans.modules.editor.NbEditorKit$NbUndoAction@7e2e0c1c</param>
+  <param>undo</param>
+</record>
+<record>
+  <date>2013-04-01T20:23:05</date>
+  <millis>1364858585493</millis>
+  <sequence>495</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>18</thread>
+  <message>UI_ACTION_KEY_PRESS</message>
+  <key>UI_ACTION_KEY_PRESS</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>ctrl pressed S</param>
+  <param>ctrl pressed S</param>
+  <param>org.openide.awt.GeneralAction$DelegateAction@e2f03775[key=null]</param>
+  <param>org.openide.awt.GeneralAction$DelegateAction</param>
+  <param>&amp;Save</param>
+</record>
+<record>
+  <date>2013-04-01T20:23:08</date>
+  <millis>1364858588853</millis>
+  <sequence>505</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-04-01T20:23:20</date>
+  <millis>1364858600056</millis>
+  <sequence>506</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>21</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>63</param>
+</record>
+<record>
+  <date>2013-04-01T20:23:29</date>
+  <millis>1364858609797</millis>
+  <sequence>509</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-04-01T20:23:33</date>
+  <millis>1364858613623</millis>
+  <sequence>512</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>21</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>66</param>
+</record>
+<record>
+  <date>2013-04-01T20:23:48</date>
+  <millis>1364858628052</millis>
+  <sequence>539</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>18</thread>
+  <message>UI_ACTION_KEY_PRESS</message>
+  <key>UI_ACTION_KEY_PRESS</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>ctrl pressed S</param>
+  <param>ctrl pressed S</param>
+  <param>org.openide.awt.GeneralAction$DelegateAction@e2f03775[key=null]</param>
+  <param>org.openide.awt.GeneralAction$DelegateAction</param>
+  <param>&amp;Save</param>
+</record>
+<record>
+  <date>2013-04-01T20:24:19</date>
+  <millis>1364858659027</millis>
+  <sequence>549</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-04-01T20:24:31</date>
+  <millis>1364858671827</millis>
+  <sequence>550</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-04-01T20:24:32</date>
+  <millis>1364858672643</millis>
+  <sequence>551</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>80</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>269</param>
+</record>
+<record>
+  <date>2013-04-01T20:24:58</date>
+  <millis>1364858698095</millis>
+  <sequence>552</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>80</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>66</param>
+</record>
+<record>
+  <date>2013-04-01T20:25:01</date>
+  <millis>1364858701321</millis>
+  <sequence>555</sequence>
+  <logger>org.netbeans.ui.actions.editor</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>UI_ACTION_EDITOR</message>
+  <key>UI_ACTION_EDITOR</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Ctrl+Z,when=1364858701318,modifiers=Ctrl] on org.openide.text.QuietEditorPane[,0,0,775x310,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@52a88ee7,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=197,g=193,b=189],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=240,g=119,b=70],kit=org.netbeans.modules.csl.core.CslEditorKit@3f0a7cd,typeHandlers=]</param>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Ctrl+Z,when=1364858701318,modifiers=Ctrl] on org.openide.text.QuietEditorPane[,0,0,775x310,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@52a88ee7,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=197,g=193,b=189],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=240,g=119,b=70],kit=org.netbeans.modules.csl.core.CslEditorKit@3f0a7cd,typeHandlers=]</param>
+  <param>org.netbeans.modules.editor.NbEditorKit$NbUndoAction[undo]</param>
+  <param>org.netbeans.modules.editor.NbEditorKit$NbUndoAction@7e2e0c1c</param>
+  <param>undo</param>
+</record>
+<record>
+  <date>2013-04-01T20:25:02</date>
+  <millis>1364858702269</millis>
+  <sequence>566</sequence>
+  <logger>org.netbeans.ui.actions.editor</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>UI_ACTION_EDITOR</message>
+  <key>UI_ACTION_EDITOR</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Ctrl+Z,when=1364858702267,modifiers=Ctrl] on org.openide.text.QuietEditorPane[,0,0,775x310,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@52a88ee7,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=197,g=193,b=189],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=240,g=119,b=70],kit=org.netbeans.modules.csl.core.CslEditorKit@3f0a7cd,typeHandlers=]</param>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Ctrl+Z,when=1364858702267,modifiers=Ctrl] on org.openide.text.QuietEditorPane[,0,0,775x310,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@52a88ee7,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=197,g=193,b=189],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=240,g=119,b=70],kit=org.netbeans.modules.csl.core.CslEditorKit@3f0a7cd,typeHandlers=]</param>
+  <param>org.netbeans.modules.editor.NbEditorKit$NbUndoAction[undo]</param>
+  <param>org.netbeans.modules.editor.NbEditorKit$NbUndoAction@7e2e0c1c</param>
+  <param>undo</param>
+</record>
+<record>
+  <date>2013-04-01T20:25:07</date>
+  <millis>1364858707057</millis>
+  <sequence>579</sequence>
+  <logger>org.netbeans.ui.actions.editor</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>UI_ACTION_EDITOR</message>
+  <key>UI_ACTION_EDITOR</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Ctrl+C,when=1364858707055,modifiers=Ctrl] on org.openide.text.QuietEditorPane[,0,0,775x310,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@52a88ee7,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=197,g=193,b=189],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=240,g=119,b=70],kit=org.netbeans.modules.csl.core.CslEditorKit@3f0a7cd,typeHandlers=]</param>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Ctrl+C,when=1364858707055,modifiers=Ctrl] on org.openide.text.QuietEditorPane[,0,0,775x310,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@52a88ee7,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=197,g=193,b=189],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=240,g=119,b=70],kit=org.netbeans.modules.csl.core.CslEditorKit@3f0a7cd,typeHandlers=]</param>
+  <param>org.netbeans.editor.BaseKit$CopyAction[copy-to-clipboard]</param>
+  <param>org.netbeans.editor.BaseKit$CopyAction@62d1b826</param>
+  <param>copy-to-clipboard</param>
+</record>
+<record>
+  <date>2013-04-01T20:25:07</date>
+  <millis>1364858707743</millis>
+  <sequence>580</sequence>
+  <logger>org.netbeans.ui.actions.editor</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>UI_ACTION_EDITOR</message>
+  <key>UI_ACTION_EDITOR</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Ctrl+Y,when=1364858707741,modifiers=Ctrl] on org.openide.text.QuietEditorPane[,0,0,775x310,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@52a88ee7,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=197,g=193,b=189],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=240,g=119,b=70],kit=org.netbeans.modules.csl.core.CslEditorKit@3f0a7cd,typeHandlers=]</param>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Ctrl+Y,when=1364858707741,modifiers=Ctrl] on org.openide.text.QuietEditorPane[,0,0,775x310,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@52a88ee7,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=197,g=193,b=189],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=240,g=119,b=70],kit=org.netbeans.modules.csl.core.CslEditorKit@3f0a7cd,typeHandlers=]</param>
+  <param>org.netbeans.modules.editor.NbEditorKit$NbRedoAction[redo]</param>
+  <param>org.netbeans.modules.editor.NbEditorKit$NbRedoAction@5953b799</param>
+  <param>redo</param>
+</record>
+<record>
+  <date>2013-04-01T20:25:08</date>
+  <millis>1364858708084</millis>
+  <sequence>581</sequence>
+  <logger>org.netbeans.ui.actions.editor</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>UI_ACTION_EDITOR</message>
+  <key>UI_ACTION_EDITOR</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Ctrl+Y,when=1364858708081,modifiers=Ctrl] on org.openide.text.QuietEditorPane[,0,0,775x310,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@52a88ee7,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=197,g=193,b=189],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=240,g=119,b=70],kit=org.netbeans.modules.csl.core.CslEditorKit@3f0a7cd,typeHandlers=]</param>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Ctrl+Y,when=1364858708081,modifiers=Ctrl] on org.openide.text.QuietEditorPane[,0,0,775x310,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@52a88ee7,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=197,g=193,b=189],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=240,g=119,b=70],kit=org.netbeans.modules.csl.core.CslEditorKit@3f0a7cd,typeHandlers=]</param>
+  <param>org.netbeans.modules.editor.NbEditorKit$NbRedoAction[redo]</param>
+  <param>org.netbeans.modules.editor.NbEditorKit$NbRedoAction@5953b799</param>
+  <param>redo</param>
+</record>
+<record>
+  <date>2013-04-01T20:25:10</date>
+  <millis>1364858710408</millis>
+  <sequence>604</sequence>
+  <logger>org.netbeans.ui.actions.editor</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>UI_ACTION_EDITOR</message>
+  <key>UI_ACTION_EDITOR</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Ctrl+V,when=1364858710405,modifiers=Ctrl] on org.openide.text.QuietEditorPane[,0,0,762x319,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@52a88ee7,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=197,g=193,b=189],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=240,g=119,b=70],kit=org.netbeans.modules.csl.core.CslEditorKit@3f0a7cd,typeHandlers=]</param>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Ctrl+V,when=1364858710405,modifiers=Ctrl] on org.openide.text.QuietEditorPane[,0,0,762x319,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@52a88ee7,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=197,g=193,b=189],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=240,g=119,b=70],kit=org.netbeans.modules.csl.core.CslEditorKit@3f0a7cd,typeHandlers=]</param>
+  <param>org.netbeans.editor.BaseKit$PasteAction[paste-from-clipboard]</param>
+  <param>org.netbeans.editor.BaseKit$PasteAction@6c0d62cd</param>
+  <param>paste-from-clipboard</param>
+</record>
+<record>
+  <date>2013-04-01T20:25:11</date>
+  <millis>1364858711038</millis>
+  <sequence>615</sequence>
+  <logger>org.netbeans.ui.actions.editor</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>UI_ACTION_EDITOR</message>
+  <key>UI_ACTION_EDITOR</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Ctrl+Slash,when=1364858711033,modifiers=Ctrl] on org.openide.text.QuietEditorPane[,0,0,762x319,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@52a88ee7,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=197,g=193,b=189],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=240,g=119,b=70],kit=org.netbeans.modules.csl.core.CslEditorKit@3f0a7cd,typeHandlers=]</param>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Ctrl+Slash,when=1364858711033,modifiers=Ctrl] on org.openide.text.QuietEditorPane[,0,0,762x319,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@52a88ee7,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=197,g=193,b=189],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=240,g=119,b=70],kit=org.netbeans.modules.csl.core.CslEditorKit@3f0a7cd,typeHandlers=]</param>
+  <param>org.netbeans.modules.csl.api.ToggleBlockCommentAction[toggle-comment]</param>
+  <param>org.netbeans.modules.csl.api.ToggleBlockCommentAction@3690f979</param>
+  <param>toggle-comment</param>
+</record>
+<record>
+  <date>2013-04-01T20:25:14</date>
+  <millis>1364858714527</millis>
+  <sequence>641</sequence>
+  <logger>org.netbeans.ui.actions.editor</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>UI_ACTION_EDITOR</message>
+  <key>UI_ACTION_EDITOR</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Ctrl+V,when=1364858714524,modifiers=Ctrl] on org.openide.text.QuietEditorPane[,0,0,762x337,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@52a88ee7,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=197,g=193,b=189],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=240,g=119,b=70],kit=org.netbeans.modules.csl.core.CslEditorKit@3f0a7cd,typeHandlers=]</param>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Ctrl+V,when=1364858714524,modifiers=Ctrl] on org.openide.text.QuietEditorPane[,0,0,762x337,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@52a88ee7,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=197,g=193,b=189],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=240,g=119,b=70],kit=org.netbeans.modules.csl.core.CslEditorKit@3f0a7cd,typeHandlers=]</param>
+  <param>org.netbeans.editor.BaseKit$PasteAction[paste-from-clipboard]</param>
+  <param>org.netbeans.editor.BaseKit$PasteAction@6c0d62cd</param>
+  <param>paste-from-clipboard</param>
+</record>
+<record>
+  <date>2013-04-01T20:25:15</date>
+  <millis>1364858715559</millis>
+  <sequence>652</sequence>
+  <logger>org.netbeans.ui.actions.editor</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>UI_ACTION_EDITOR</message>
+  <key>UI_ACTION_EDITOR</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Ctrl+Slash,when=1364858715557,modifiers=Ctrl] on org.openide.text.QuietEditorPane[,0,0,762x337,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@52a88ee7,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=197,g=193,b=189],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=240,g=119,b=70],kit=org.netbeans.modules.csl.core.CslEditorKit@3f0a7cd,typeHandlers=]</param>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Ctrl+Slash,when=1364858715557,modifiers=Ctrl] on org.openide.text.QuietEditorPane[,0,0,762x337,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@52a88ee7,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=197,g=193,b=189],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=240,g=119,b=70],kit=org.netbeans.modules.csl.core.CslEditorKit@3f0a7cd,typeHandlers=]</param>
+  <param>org.netbeans.modules.csl.api.ToggleBlockCommentAction[toggle-comment]</param>
+  <param>org.netbeans.modules.csl.api.ToggleBlockCommentAction@3690f979</param>
+  <param>toggle-comment</param>
+</record>
+<record>
+  <date>2013-04-01T20:25:16</date>
+  <millis>1364858716784</millis>
+  <sequence>663</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>18</thread>
+  <message>UI_ACTION_KEY_PRESS</message>
+  <key>UI_ACTION_KEY_PRESS</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>ctrl pressed S</param>
+  <param>ctrl pressed S</param>
+  <param>org.openide.awt.GeneralAction$DelegateAction@e2f03775[key=null]</param>
+  <param>org.openide.awt.GeneralAction$DelegateAction</param>
+  <param>&amp;Save</param>
+</record>
+<record>
+  <date>2013-04-01T20:25:34</date>
+  <millis>1364858734601</millis>
+  <sequence>673</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-04-01T20:26:01</date>
+  <millis>1364858761916</millis>
+  <sequence>674</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>80</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>70</param>
+</record>
+<record>
+  <date>2013-04-01T20:26:36</date>
+  <millis>1364858796563</millis>
+  <sequence>675</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-04-01T20:26:43</date>
+  <millis>1364858803847</millis>
+  <sequence>676</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-04-01T20:26:44</date>
+  <millis>1364858804802</millis>
+  <sequence>677</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>80</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>255</param>
+</record>
+<record>
+  <date>2013-04-01T20:26:52</date>
+  <millis>1364858812090</millis>
+  <sequence>681</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>92</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>69</param>
+</record>
+<record>
+  <date>2013-04-01T20:26:55</date>
+  <millis>1364858815912</millis>
+  <sequence>682</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-04-01T20:28:14</date>
+  <millis>1364858894396</millis>
+  <sequence>684</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>92</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>69</param>
+</record>
+<record>
+  <date>2013-04-01T20:28:20</date>
+  <millis>1364858900486</millis>
+  <sequence>719</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>18</thread>
+  <message>UI_ACTION_KEY_PRESS</message>
+  <key>UI_ACTION_KEY_PRESS</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>ctrl pressed S</param>
+  <param>ctrl pressed S</param>
+  <param>org.openide.awt.GeneralAction$DelegateAction@e2f03775[key=null]</param>
+  <param>org.openide.awt.GeneralAction$DelegateAction</param>
+  <param>&amp;Save</param>
+</record>
+<record>
+  <date>2013-04-01T20:28:30</date>
+  <millis>1364858910889</millis>
+  <sequence>752</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>18</thread>
+  <message>UI_ACTION_KEY_PRESS</message>
+  <key>UI_ACTION_KEY_PRESS</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>ctrl pressed S</param>
+  <param>ctrl pressed S</param>
+  <param>org.openide.awt.GeneralAction$DelegateAction@e2f03775[key=null]</param>
+  <param>org.openide.awt.GeneralAction$DelegateAction</param>
+  <param>&amp;Save</param>
+</record>
+<record>
+  <date>2013-04-01T20:28:52</date>
+  <millis>1364858932607</millis>
+  <sequence>818</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>18</thread>
+  <message>UI_ACTION_KEY_PRESS</message>
+  <key>UI_ACTION_KEY_PRESS</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>ctrl pressed S</param>
+  <param>ctrl pressed S</param>
+  <param>org.openide.awt.GeneralAction$DelegateAction@e2f03775[key=null]</param>
+  <param>org.openide.awt.GeneralAction$DelegateAction</param>
+  <param>&amp;Save</param>
+</record>
+<record>
+  <date>2013-04-01T20:32:34</date>
+  <millis>1364859154194</millis>
+  <sequence>939</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-04-01T20:32:58</date>
+  <millis>1364859178328</millis>
+  <sequence>940</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>92</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>255</param>
+</record>
+<record>
+  <date>2013-04-01T20:33:03</date>
+  <millis>1364859183142</millis>
+  <sequence>941</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-04-01T20:33:12</date>
+  <millis>1364859192348</millis>
+  <sequence>957</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>92</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>256</param>
+</record>
+<record>
+  <date>2013-04-01T20:33:39</date>
+  <millis>1364859219309</millis>
+  <sequence>1012</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-04-01T20:33:43</date>
+  <millis>1364859223822</millis>
+  <sequence>1013</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-04-01T20:33:44</date>
+  <millis>1364859224508</millis>
+  <sequence>1014</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>115</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>62</param>
+</record>
+<record>
+  <date>2013-04-01T20:33:50</date>
+  <millis>1364859230947</millis>
+  <sequence>1015</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>115</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>69</param>
+</record>
+<record>
+  <date>2013-04-01T20:33:51</date>
+  <millis>1364859231248</millis>
+  <sequence>1016</sequence>
+  <logger>org.netbeans.ui.actions.editor</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>UI_ACTION_EDITOR</message>
+  <key>UI_ACTION_EDITOR</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>no-ActionEvent</param>
+  <param>no-ActionEvent</param>
+  <param>org.netbeans.editor.BaseKit$SelectWordAction[select-word]</param>
+  <param>org.netbeans.editor.BaseKit$SelectWordAction@14de4a89</param>
+  <param>select-word</param>
+</record>
+<record>
+  <date>2013-04-01T20:33:51</date>
+  <millis>1364859231554</millis>
+  <sequence>1017</sequence>
+  <logger>org.netbeans.ui.actions.editor</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>UI_ACTION_EDITOR</message>
+  <key>UI_ACTION_EDITOR</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Ctrl+C,when=1364859231549,modifiers=Ctrl] on org.openide.text.QuietEditorPane[,0,0,762x337,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@52a88ee7,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=197,g=193,b=189],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=240,g=119,b=70],kit=org.netbeans.modules.csl.core.CslEditorKit@3f0a7cd,typeHandlers=]</param>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Ctrl+C,when=1364859231549,modifiers=Ctrl] on org.openide.text.QuietEditorPane[,0,0,762x337,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@52a88ee7,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=197,g=193,b=189],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=240,g=119,b=70],kit=org.netbeans.modules.csl.core.CslEditorKit@3f0a7cd,typeHandlers=]</param>
+  <param>org.netbeans.editor.BaseKit$CopyAction[copy-to-clipboard]</param>
+  <param>org.netbeans.editor.BaseKit$CopyAction@62d1b826</param>
+  <param>copy-to-clipboard</param>
+</record>
+<record>
+  <date>2013-04-01T20:33:51</date>
+  <millis>1364859231879</millis>
+  <sequence>1020</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-04-01T20:34:27</date>
+  <millis>1364859267532</millis>
+  <sequence>1021</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>120</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>74</param>
+</record>
+<record>
+  <date>2013-04-01T20:34:34</date>
+  <millis>1364859274472</millis>
+  <sequence>1022</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-04-01T20:34:40</date>
+  <millis>1364859280205</millis>
+  <sequence>1023</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>115</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>256</param>
+</record>
+<record>
+  <date>2013-04-01T20:34:51</date>
+  <millis>1364859291046</millis>
+  <sequence>1024</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-04-01T20:34:57</date>
+  <millis>1364859297883</millis>
+  <sequence>1028</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>115</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>63</param>
+</record>
+<record>
+  <date>2013-04-01T20:35:28</date>
+  <millis>1364859328919</millis>
+  <sequence>1029</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-04-01T20:35:35</date>
+  <millis>1364859335255</millis>
+  <sequence>1030</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>115</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>69</param>
+</record>
+<record>
+  <date>2013-04-01T20:35:41</date>
+  <millis>1364859341145</millis>
+  <sequence>1033</sequence>
+  <logger>org.netbeans.ui.actions.editor</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>UI_ACTION_EDITOR</message>
+  <key>UI_ACTION_EDITOR</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Ctrl+Slash,when=1364859341140,modifiers=Ctrl] on org.openide.text.QuietEditorPane[,0,0,762x337,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@52a88ee7,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=197,g=193,b=189],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=240,g=119,b=70],kit=org.netbeans.modules.csl.core.CslEditorKit@3f0a7cd,typeHandlers=]</param>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Ctrl+Slash,when=1364859341140,modifiers=Ctrl] on org.openide.text.QuietEditorPane[,0,0,762x337,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@52a88ee7,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=197,g=193,b=189],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=240,g=119,b=70],kit=org.netbeans.modules.csl.core.CslEditorKit@3f0a7cd,typeHandlers=]</param>
+  <param>org.netbeans.modules.csl.api.ToggleBlockCommentAction[toggle-comment]</param>
+  <param>org.netbeans.modules.csl.api.ToggleBlockCommentAction@3690f979</param>
+  <param>toggle-comment</param>
+</record>
+<record>
+  <date>2013-04-01T20:35:41</date>
+  <millis>1364859341618</millis>
+  <sequence>1035</sequence>
+  <logger>org.netbeans.ui.actions.editor</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>UI_ACTION_EDITOR</message>
+  <key>UI_ACTION_EDITOR</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Ctrl+Slash,when=1364859341603,modifiers=Ctrl] on org.openide.text.QuietEditorPane[,0,0,762x337,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@52a88ee7,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=197,g=193,b=189],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=240,g=119,b=70],kit=org.netbeans.modules.csl.core.CslEditorKit@3f0a7cd,typeHandlers=]</param>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Ctrl+Slash,when=1364859341603,modifiers=Ctrl] on org.openide.text.QuietEditorPane[,0,0,762x337,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@52a88ee7,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=197,g=193,b=189],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=240,g=119,b=70],kit=org.netbeans.modules.csl.core.CslEditorKit@3f0a7cd,typeHandlers=]</param>
+  <param>org.netbeans.modules.csl.api.ToggleBlockCommentAction[toggle-comment]</param>
+  <param>org.netbeans.modules.csl.api.ToggleBlockCommentAction@3690f979</param>
+  <param>toggle-comment</param>
+</record>
+<record>
+  <date>2013-04-01T20:35:42</date>
+  <millis>1364859342965</millis>
+  <sequence>1037</sequence>
+  <logger>org.netbeans.ui.actions.editor</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>UI_ACTION_EDITOR</message>
+  <key>UI_ACTION_EDITOR</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Ctrl+Slash,when=1364859342961,modifiers=Ctrl] on org.openide.text.QuietEditorPane[,0,0,762x337,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@52a88ee7,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=197,g=193,b=189],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=240,g=119,b=70],kit=org.netbeans.modules.csl.core.CslEditorKit@3f0a7cd,typeHandlers=]</param>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Ctrl+Slash,when=1364859342961,modifiers=Ctrl] on org.openide.text.QuietEditorPane[,0,0,762x337,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@52a88ee7,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=197,g=193,b=189],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=240,g=119,b=70],kit=org.netbeans.modules.csl.core.CslEditorKit@3f0a7cd,typeHandlers=]</param>
+  <param>org.netbeans.modules.csl.api.ToggleBlockCommentAction[toggle-comment]</param>
+  <param>org.netbeans.modules.csl.api.ToggleBlockCommentAction@3690f979</param>
+  <param>toggle-comment</param>
+</record>
+<record>
+  <date>2013-04-01T20:35:43</date>
+  <millis>1364859343445</millis>
+  <sequence>1039</sequence>
+  <logger>org.netbeans.ui.actions.editor</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>UI_ACTION_EDITOR</message>
+  <key>UI_ACTION_EDITOR</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Ctrl+Slash,when=1364859343441,modifiers=Ctrl] on org.openide.text.QuietEditorPane[,0,0,762x337,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@52a88ee7,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=197,g=193,b=189],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=240,g=119,b=70],kit=org.netbeans.modules.csl.core.CslEditorKit@3f0a7cd,typeHandlers=]</param>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Ctrl+Slash,when=1364859343441,modifiers=Ctrl] on org.openide.text.QuietEditorPane[,0,0,762x337,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@52a88ee7,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=197,g=193,b=189],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=240,g=119,b=70],kit=org.netbeans.modules.csl.core.CslEditorKit@3f0a7cd,typeHandlers=]</param>
+  <param>org.netbeans.modules.csl.api.ToggleBlockCommentAction[toggle-comment]</param>
+  <param>org.netbeans.modules.csl.api.ToggleBlockCommentAction@3690f979</param>
+  <param>toggle-comment</param>
+</record>
+<record>
+  <date>2013-04-01T20:35:43</date>
+  <millis>1364859343757</millis>
+  <sequence>1040</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>18</thread>
+  <message>UI_ACTION_KEY_PRESS</message>
+  <key>UI_ACTION_KEY_PRESS</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>ctrl pressed S</param>
+  <param>ctrl pressed S</param>
+  <param>org.openide.awt.GeneralAction$DelegateAction@e2f03775[key=null]</param>
+  <param>org.openide.awt.GeneralAction$DelegateAction</param>
+  <param>&amp;Save</param>
+</record>
+<record>
+  <date>2013-04-01T20:35:56</date>
+  <millis>1364859356072</millis>
+  <sequence>1055</sequence>
+  <logger>org.netbeans.ui.actions.editor</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>UI_ACTION_EDITOR</message>
+  <key>UI_ACTION_EDITOR</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Ctrl+C,when=1364859356052,modifiers=Ctrl] on org.openide.text.QuietEditorPane[,0,0,762x337,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@52a88ee7,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=197,g=193,b=189],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=240,g=119,b=70],kit=org.netbeans.modules.csl.core.CslEditorKit@3f0a7cd,typeHandlers=]</param>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Ctrl+C,when=1364859356052,modifiers=Ctrl] on org.openide.text.QuietEditorPane[,0,0,762x337,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@52a88ee7,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=197,g=193,b=189],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=240,g=119,b=70],kit=org.netbeans.modules.csl.core.CslEditorKit@3f0a7cd,typeHandlers=]</param>
+  <param>org.netbeans.editor.BaseKit$CopyAction[copy-to-clipboard]</param>
+  <param>org.netbeans.editor.BaseKit$CopyAction@62d1b826</param>
+  <param>copy-to-clipboard</param>
+</record>
+<record>
+  <date>2013-04-01T20:35:56</date>
+  <millis>1364859356591</millis>
+  <sequence>1056</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-04-01T20:36:33</date>
+  <millis>1364859393155</millis>
+  <sequence>1057</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>123</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>258</param>
+</record>
+<record>
+  <date>2013-04-01T20:40:09</date>
+  <millis>1364859609560</millis>
+  <sequence>1084</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>18</thread>
+  <message>UI_ACTION_KEY_PRESS</message>
+  <key>UI_ACTION_KEY_PRESS</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>ctrl pressed S</param>
+  <param>ctrl pressed S</param>
+  <param>org.openide.awt.GeneralAction$DelegateAction@e2f03775[key=null]</param>
+  <param>org.openide.awt.GeneralAction$DelegateAction</param>
+  <param>&amp;Save</param>
+</record>
+<record>
+  <date>2013-04-01T20:40:14</date>
+  <millis>1364859614201</millis>
+  <sequence>1094</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-04-01T20:40:28</date>
+  <millis>1364859628332</millis>
+  <sequence>1095</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>129</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>68</param>
+</record>
+<record>
+  <date>2013-04-01T20:40:49</date>
+  <millis>1364859649346</millis>
+  <sequence>1096</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-04-01T20:41:10</date>
+  <millis>1364859670390</millis>
+  <sequence>1097</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>129</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>258</param>
+</record>
+<record>
+  <date>2013-04-01T20:41:13</date>
+  <millis>1364859673928</millis>
+  <sequence>1098</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>18</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Actions$MenuItem[Edit]</param>
+  <param>org.openide.awt.Actions$MenuItem</param>
+  <param>br.com.tecsinapse.glimpse_netbeans.service.ServiceNode$EditAction[Edit]</param>
+  <param>br.com.tecsinapse.glimpse_netbeans.service.ServiceNode$EditAction</param>
+  <param>Edit</param>
+</record>
+<record>
+  <date>2013-04-01T20:42:12</date>
+  <millis>1364859732765</millis>
+  <sequence>1104</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-04-01T20:42:17</date>
+  <millis>1364859737256</millis>
+  <sequence>1105</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-04-01T20:42:17</date>
+  <millis>1364859737906</millis>
+  <sequence>1106</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>123</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>65</param>
+</record>
+<record>
+  <date>2013-04-01T20:42:33</date>
+  <millis>1364859753820</millis>
+  <sequence>1107</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>129</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>81</param>
+</record>
+<record>
+  <date>2013-04-01T20:42:45</date>
+  <millis>1364859765110</millis>
+  <sequence>1108</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-04-01T20:42:59</date>
+  <millis>1364859779239</millis>
+  <sequence>1109</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>129</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>253</param>
+</record>
+<record>
+  <date>2013-04-01T20:43:00</date>
+  <millis>1364859780855</millis>
+  <sequence>1110</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-04-01T20:43:10</date>
+  <millis>1364859790291</millis>
+  <sequence>1111</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>129</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>63</param>
+</record>
+<record>
+  <date>2013-04-01T20:43:22</date>
+  <millis>1364859802801</millis>
+  <sequence>1112</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-04-01T20:43:36</date>
+  <millis>1364859816723</millis>
+  <sequence>1113</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>129</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>69</param>
+</record>
+<record>
+  <date>2013-04-01T20:43:45</date>
+  <millis>1364859825716</millis>
+  <sequence>1114</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-04-01T20:44:07</date>
+  <millis>1364859847551</millis>
+  <sequence>1115</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>129</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>72</param>
+</record>
+<record>
+  <date>2013-04-01T20:44:07</date>
+  <millis>1364859847802</millis>
+  <sequence>1116</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-04-01T20:44:29</date>
+  <millis>1364859869162</millis>
+  <sequence>1117</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>129</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>267</param>
+</record>
+<record>
+  <date>2013-04-01T20:44:39</date>
+  <millis>1364859879326</millis>
+  <sequence>1118</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-04-01T20:44:41</date>
+  <millis>1364859881829</millis>
+  <sequence>1119</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-04-01T20:44:42</date>
+  <millis>1364859882822</millis>
+  <sequence>1120</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>129</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>64</param>
+</record>
+<record>
+  <date>2013-04-01T20:44:47</date>
+  <millis>1364859887857</millis>
+  <sequence>1121</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>135</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>1121</param>
+</record>
+<record>
+  <date>2013-04-01T20:44:48</date>
+  <millis>1364859888116</millis>
+  <sequence>1122</sequence>
+  <logger>org.netbeans.ui.metrics.editor</logger>
+  <level>INFO</level>
+  <thread>135</thread>
+  <message>USG_EDITOR_MIME_TYPE</message>
+  <param>text/x-groovy</param>
+  <param>1</param>
+</record>
+<record>
+  <date>2013-04-01T20:44:48</date>
+  <millis>1364859888196</millis>
+  <sequence>1125</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>INFO</level>
+  <thread>141</thread>
+  <message>INDEXING_STARTED</message>
+  <key>INDEXING_STARTED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>1703290</param>
+</record>
+<record>
+  <date>2013-04-01T20:44:48</date>
+  <millis>1364859888203</millis>
+  <sequence>1126</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>INFO</level>
+  <thread>141</thread>
+  <message>INDEXING_FINISHED</message>
+  <key>INDEXING_FINISHED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>5</param>
+</record>
+<record>
+  <date>2013-04-01T20:44:48</date>
+  <millis>1364859888230</millis>
+  <sequence>1130</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-04-01T20:50:35</date>
+  <millis>1364860235769</millis>
+  <sequence>48</sequence>
+  <level>FINEST</level>
+  <thread>13</thread>
+  <message>CPU INFO</message>
+  <param>8</param>
+</record>
+<record>
+  <date>2013-04-01T20:50:35</date>
+  <millis>1364860235771</millis>
+  <sequence>49</sequence>
+  <level>FINEST</level>
+  <thread>13</thread>
+  <message>SCREEN SIZE</message>
+  <param>1366</param>
+  <param>768</param>
+  <param>1</param>
+</record>
+<record>
+  <date>2013-04-01T20:50:35</date>
+  <millis>1364860235772</millis>
+  <sequence>50</sequence>
+  <level>CONFIG</level>
+  <thread>13</thread>
+  <message>IDE_STARTUP</message>
+</record>
+<record>
+  <date>2013-04-01T20:50:40</date>
+  <millis>1364860240968</millis>
+  <sequence>76</sequence>
+  <level>INFO</level>
+  <thread>28</thread>
+  <message>MEMORY</message>
+  <key>MEMORY</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>8237469696</param>
+</record>
+<record>
+  <date>2013-04-01T20:50:51</date>
+  <millis>1364860251127</millis>
+  <sequence>90</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>18</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Actions$MenuItem[Add Connection]</param>
+  <param>org.openide.awt.Actions$MenuItem</param>
+  <param>br.com.tecsinapse.glimpse_netbeans.service.RootNode$AddAction[Add Connection]</param>
+  <param>br.com.tecsinapse.glimpse_netbeans.service.RootNode$AddAction</param>
+  <param>Add Connection</param>
+</record>
+<record>
+  <date>2013-04-01T20:51:18</date>
+  <millis>1364860278920</millis>
+  <sequence>133</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>INFO</level>
+  <thread>28</thread>
+  <message>INDEXING_STARTED</message>
+  <key>INDEXING_STARTED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>0</param>
+</record>
+<record>
+  <date>2013-04-01T20:51:19</date>
+  <millis>1364860279448</millis>
+  <sequence>146</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>INFO</level>
+  <thread>28</thread>
+  <message>INDEXING_FINISHED</message>
+  <key>INDEXING_FINISHED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>527</param>
+  <param>TaskListIndexer</param>
+  <param>3</param>
+  <param>1</param>
+  <param>jsfCustomIndexer</param>
+  <param>3</param>
+  <param>3</param>
+  <param>org.netbeans.modules.java.source.indexing.COSSynchronizingIndexer</param>
+  <param>3</param>
+  <param>0</param>
+  <param>org-netbeans-modules-jumpto-file-FileIndexer</param>
+  <param>3</param>
+  <param>1</param>
+</record>
+<record>
+  <date>2013-04-01T20:51:26</date>
+  <millis>1364860286919</millis>
+  <sequence>156</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>18</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Actions$MenuItem[Edit]</param>
+  <param>org.openide.awt.Actions$MenuItem</param>
+  <param>br.com.tecsinapse.glimpse_netbeans.service.ServiceNode$EditAction[Edit]</param>
+  <param>br.com.tecsinapse.glimpse_netbeans.service.ServiceNode$EditAction</param>
+  <param>Edit</param>
+</record>
+<record>
+  <date>2013-04-01T20:51:36</date>
+  <millis>1364860296259</millis>
+  <sequence>157</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>18</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Actions$MenuItem[Edit]</param>
+  <param>org.openide.awt.Actions$MenuItem</param>
+  <param>br.com.tecsinapse.glimpse_netbeans.service.ServiceNode$EditAction[Edit]</param>
+  <param>br.com.tecsinapse.glimpse_netbeans.service.ServiceNode$EditAction</param>
+  <param>Edit</param>
+</record>
+<record>
+  <date>2013-04-01T20:51:44</date>
+  <millis>1364860304045</millis>
+  <sequence>158</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>18</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Actions$MenuItem[Edit]</param>
+  <param>org.openide.awt.Actions$MenuItem</param>
+  <param>br.com.tecsinapse.glimpse_netbeans.service.ServiceNode$EditAction[Edit]</param>
+  <param>br.com.tecsinapse.glimpse_netbeans.service.ServiceNode$EditAction</param>
+  <param>Edit</param>
+</record>
+<record>
+  <date>2013-04-01T20:51:46</date>
+  <millis>1364860306477</millis>
+  <sequence>159</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-04-01T20:52:21</date>
+  <millis>1364860341517</millis>
+  <sequence>160</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>26</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>223</param>
+</record>
+<record>
+  <date>2013-04-01T20:52:22</date>
+  <millis>1364860342291</millis>
+  <sequence>161</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>18</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Actions$MenuItem[Edit]</param>
+  <param>org.openide.awt.Actions$MenuItem</param>
+  <param>br.com.tecsinapse.glimpse_netbeans.service.ServiceNode$EditAction[Edit]</param>
+  <param>br.com.tecsinapse.glimpse_netbeans.service.ServiceNode$EditAction</param>
+  <param>Edit</param>
+</record>
+<record>
+  <date>2013-04-01T20:52:29</date>
+  <millis>1364860349513</millis>
+  <sequence>162</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>18</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Actions$MenuItem[Edit]</param>
+  <param>org.openide.awt.Actions$MenuItem</param>
+  <param>br.com.tecsinapse.glimpse_netbeans.service.ServiceNode$EditAction[Edit]</param>
+  <param>br.com.tecsinapse.glimpse_netbeans.service.ServiceNode$EditAction</param>
+  <param>Edit</param>
+</record>
+<record>
+  <date>2013-04-01T20:52:33</date>
+  <millis>1364860353067</millis>
+  <sequence>163</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-04-01T20:52:43</date>
+  <millis>1364860363920</millis>
+  <sequence>164</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>20</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>259</param>
+</record>
+<record>
+  <date>2013-04-01T20:52:47</date>
+  <millis>1364860367210</millis>
+  <sequence>167</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>INFO</level>
+  <thread>61</thread>
+  <message>INDEXING_STARTED</message>
+  <key>INDEXING_STARTED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>87762</param>
+</record>
+<record>
+  <date>2013-04-01T20:52:47</date>
+  <millis>1364860367218</millis>
+  <sequence>169</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>INFO</level>
+  <thread>61</thread>
+  <message>INDEXING_FINISHED</message>
+  <key>INDEXING_FINISHED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>6</param>
+</record>
+<record>
+  <date>2013-04-01T20:52:47</date>
+  <millis>1364860367228</millis>
+  <sequence>173</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-04-01T20:53:24</date>
+  <millis>1364860404555</millis>
+  <sequence>46</sequence>
+  <level>FINEST</level>
+  <thread>16</thread>
+  <message>CPU INFO</message>
+  <param>8</param>
+</record>
+<record>
+  <date>2013-04-01T20:53:24</date>
+  <millis>1364860404557</millis>
+  <sequence>47</sequence>
+  <level>FINEST</level>
+  <thread>16</thread>
+  <message>SCREEN SIZE</message>
+  <param>1366</param>
+  <param>768</param>
+  <param>1</param>
+</record>
+<record>
+  <date>2013-04-01T20:53:24</date>
+  <millis>1364860404558</millis>
+  <sequence>48</sequence>
+  <level>CONFIG</level>
+  <thread>16</thread>
+  <message>IDE_STARTUP</message>
+</record>
+<record>
+  <date>2013-04-01T20:53:30</date>
+  <millis>1364860410002</millis>
+  <sequence>74</sequence>
+  <level>INFO</level>
+  <thread>15</thread>
+  <message>MEMORY</message>
+  <key>MEMORY</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>8237469696</param>
+</record>
+<record>
+  <date>2013-04-01T20:53:35</date>
+  <millis>1364860415858</millis>
+  <sequence>91</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>21</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Actions$MenuItem[Edit]</param>
+  <param>org.openide.awt.Actions$MenuItem</param>
+  <param>br.com.tecsinapse.glimpse_netbeans.service.ServiceNode$EditAction[Edit]</param>
+  <param>br.com.tecsinapse.glimpse_netbeans.service.ServiceNode$EditAction</param>
+  <param>Edit</param>
+</record>
+<record>
+  <date>2013-04-01T20:53:42</date>
+  <millis>1364860422180</millis>
+  <sequence>92</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>21</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-04-01T20:54:10</date>
+  <millis>1364860450203</millis>
+  <sequence>93</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>15</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>249</param>
+</record>
+<record>
+  <date>2013-04-01T20:54:11</date>
+  <millis>1364860451131</millis>
+  <sequence>94</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>21</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Actions$MenuItem[Edit]</param>
+  <param>org.openide.awt.Actions$MenuItem</param>
+  <param>br.com.tecsinapse.glimpse_netbeans.service.ServiceNode$EditAction[Edit]</param>
+  <param>br.com.tecsinapse.glimpse_netbeans.service.ServiceNode$EditAction</param>
+  <param>Edit</param>
+</record>
+<record>
+  <date>2013-04-01T20:54:15</date>
+  <millis>1364860455938</millis>
+  <sequence>96</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>21</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-04-01T20:54:54</date>
+  <millis>1364860494342</millis>
+  <sequence>98</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>21</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-04-01T20:54:54</date>
+  <millis>1364860494348</millis>
+  <sequence>99</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>21</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-04-01T20:54:55</date>
+  <millis>1364860495908</millis>
+  <sequence>100</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>29</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>64</param>
+</record>
+<record>
+  <date>2013-04-01T20:54:56</date>
+  <millis>1364860496533</millis>
+  <sequence>101</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>29</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>518</param>
+</record>
+<record>
+  <date>2013-04-01T20:54:57</date>
+  <millis>1364860497148</millis>
+  <sequence>102</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>29</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>176</param>
+</record>
+<record>
+  <date>2013-04-01T20:55:07</date>
+  <millis>1364860507986</millis>
+  <sequence>103</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>21</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Actions$MenuItem[Edit]</param>
+  <param>org.openide.awt.Actions$MenuItem</param>
+  <param>br.com.tecsinapse.glimpse_netbeans.service.ServiceNode$EditAction[Edit]</param>
+  <param>br.com.tecsinapse.glimpse_netbeans.service.ServiceNode$EditAction</param>
+  <param>Edit</param>
+</record>
+<record>
+  <date>2013-04-01T20:55:12</date>
+  <millis>1364860512156</millis>
+  <sequence>104</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>21</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-04-01T21:01:13</date>
+  <millis>1364860873179</millis>
+  <sequence>105</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>21</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-04-01T21:01:13</date>
+  <millis>1364860873191</millis>
+  <sequence>106</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>21</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-04-01T21:01:14</date>
+  <millis>1364860874750</millis>
+  <sequence>107</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>59</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>69</param>
+</record>
+<record>
+  <date>2013-04-01T21:01:15</date>
+  <millis>1364860875416</millis>
+  <sequence>108</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>59</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>565</param>
+</record>
+<record>
+  <date>2013-04-01T21:01:16</date>
+  <millis>1364860876779</millis>
+  <sequence>109</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>59</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>78</param>
+</record>
+<record>
+  <date>2013-04-01T21:01:17</date>
+  <millis>1364860877030</millis>
+  <sequence>110</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>21</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Actions$MenuItem[Edit]</param>
+  <param>org.openide.awt.Actions$MenuItem</param>
+  <param>br.com.tecsinapse.glimpse_netbeans.service.ServiceNode$EditAction[Edit]</param>
+  <param>br.com.tecsinapse.glimpse_netbeans.service.ServiceNode$EditAction</param>
+  <param>Edit</param>
+</record>
+<record>
+  <date>2013-04-01T21:01:19</date>
+  <millis>1364860879291</millis>
+  <sequence>111</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>21</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-04-01T21:01:23</date>
+  <millis>1364860883047</millis>
+  <sequence>113</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>60</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>159</param>
+</record>
+<record>
+  <date>2013-04-01T21:01:25</date>
+  <millis>1364860885112</millis>
+  <sequence>114</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>21</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Actions$MenuItem[Edit]</param>
+  <param>org.openide.awt.Actions$MenuItem</param>
+  <param>br.com.tecsinapse.glimpse_netbeans.service.ServiceNode$EditAction[Edit]</param>
+  <param>br.com.tecsinapse.glimpse_netbeans.service.ServiceNode$EditAction</param>
+  <param>Edit</param>
+</record>
+<record>
+  <date>2013-04-01T21:01:30</date>
+  <millis>1364860890950</millis>
+  <sequence>115</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>21</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Actions$MenuItem[Edit]</param>
+  <param>org.openide.awt.Actions$MenuItem</param>
+  <param>br.com.tecsinapse.glimpse_netbeans.service.ServiceNode$EditAction[Edit]</param>
+  <param>br.com.tecsinapse.glimpse_netbeans.service.ServiceNode$EditAction</param>
+  <param>Edit</param>
+</record>
+<record>
+  <date>2013-04-01T21:01:40</date>
+  <millis>1364860900653</millis>
+  <sequence>116</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>21</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-04-01T21:02:51</date>
+  <millis>1364860971370</millis>
+  <sequence>117</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>61</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>69</param>
+</record>
+<record>
+  <date>2013-04-01T21:02:52</date>
+  <millis>1364860972113</millis>
+  <sequence>118</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>21</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Actions$MenuItem[Edit]</param>
+  <param>org.openide.awt.Actions$MenuItem</param>
+  <param>br.com.tecsinapse.glimpse_netbeans.service.ServiceNode$EditAction[Edit]</param>
+  <param>br.com.tecsinapse.glimpse_netbeans.service.ServiceNode$EditAction</param>
+  <param>Edit</param>
+</record>
+<record>
+  <date>2013-04-01T21:03:01</date>
+  <millis>1364860981876</millis>
+  <sequence>120</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>21</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-04-01T21:04:07</date>
+  <millis>1364861047286</millis>
+  <sequence>121</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>60</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>73</param>
+</record>
+<record>
+  <date>2013-04-01T21:04:08</date>
+  <millis>1364861048112</millis>
+  <sequence>122</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>21</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Actions$MenuItem[Edit]</param>
+  <param>org.openide.awt.Actions$MenuItem</param>
+  <param>br.com.tecsinapse.glimpse_netbeans.service.ServiceNode$EditAction[Edit]</param>
+  <param>br.com.tecsinapse.glimpse_netbeans.service.ServiceNode$EditAction</param>
+  <param>Edit</param>
+</record>
+<record>
+  <date>2013-04-01T21:04:14</date>
+  <millis>1364861054203</millis>
+  <sequence>123</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>21</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-04-01T21:09:21</date>
+  <millis>1364861361338</millis>
+  <sequence>124</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>68</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>297</param>
+</record>
+<record>
+  <date>2013-04-01T21:09:23</date>
+  <millis>1364861363284</millis>
+  <sequence>125</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>21</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Actions$MenuItem[Edit]</param>
+  <param>org.openide.awt.Actions$MenuItem</param>
+  <param>br.com.tecsinapse.glimpse_netbeans.service.ServiceNode$EditAction[Edit]</param>
+  <param>br.com.tecsinapse.glimpse_netbeans.service.ServiceNode$EditAction</param>
+  <param>Edit</param>
+</record>
+<record>
+  <date>2013-04-01T21:09:34</date>
+  <millis>1364861374869</millis>
+  <sequence>127</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>21</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-04-01T21:15:34</date>
+  <millis>1364861734684</millis>
+  <sequence>128</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>74</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>68</param>
+</record>
+<record>
+  <date>2013-04-01T21:15:36</date>
+  <millis>1364861736643</millis>
+  <sequence>131</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>INFO</level>
+  <thread>78</thread>
+  <message>INDEXING_STARTED</message>
+  <key>INDEXING_STARTED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>0</param>
+</record>
+<record>
+  <date>2013-04-01T21:15:36</date>
+  <millis>1364861736648</millis>
+  <sequence>132</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>INFO</level>
+  <thread>78</thread>
+  <message>INDEXING_FINISHED</message>
+  <key>INDEXING_FINISHED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>3</param>
+</record>
+<record>
+  <date>2013-04-01T21:15:36</date>
+  <millis>1364861736662</millis>
+  <sequence>136</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>21</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-04-01T21:16:33</date>
+  <millis>1364861793211</millis>
+  <sequence>48</sequence>
+  <level>FINEST</level>
+  <thread>16</thread>
+  <message>CPU INFO</message>
+  <param>8</param>
+</record>
+<record>
+  <date>2013-04-01T21:16:33</date>
+  <millis>1364861793214</millis>
+  <sequence>49</sequence>
+  <level>FINEST</level>
+  <thread>16</thread>
+  <message>SCREEN SIZE</message>
+  <param>1366</param>
+  <param>768</param>
+  <param>1</param>
+</record>
+<record>
+  <date>2013-04-01T21:16:33</date>
+  <millis>1364861793214</millis>
+  <sequence>50</sequence>
+  <level>CONFIG</level>
+  <thread>16</thread>
+  <message>IDE_STARTUP</message>
+</record>
+<record>
+  <date>2013-04-01T21:16:38</date>
+  <millis>1364861798694</millis>
+  <sequence>74</sequence>
+  <level>INFO</level>
+  <thread>31</thread>
+  <message>MEMORY</message>
+  <key>MEMORY</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>8237469696</param>
+</record>
+<record>
+  <date>2013-04-01T21:16:47</date>
+  <millis>1364861807844</millis>
+  <sequence>79</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>21</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-04-01T21:16:49</date>
+  <millis>1364861809163</millis>
+  <sequence>80</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>21</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Actions$MenuItem[Edit]</param>
+  <param>org.openide.awt.Actions$MenuItem</param>
+  <param>br.com.tecsinapse.glimpse_netbeans.service.ServiceNode$EditAction[Edit]</param>
+  <param>br.com.tecsinapse.glimpse_netbeans.service.ServiceNode$EditAction</param>
+  <param>Edit</param>
+</record>
+<record>
+  <date>2013-04-01T21:16:49</date>
+  <millis>1364861809476</millis>
+  <sequence>82</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>15</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>8</param>
+</record>
+<record>
+  <date>2013-04-01T21:17:03</date>
+  <millis>1364861823204</millis>
+  <sequence>83</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>21</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-04-01T21:17:12</date>
+  <millis>1364861832006</millis>
+  <sequence>84</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>29</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>12</param>
+</record>
+<record>
+  <date>2013-04-01T21:17:20</date>
+  <millis>1364861840612</millis>
+  <sequence>85</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>21</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Actions$MenuItem[Edit]</param>
+  <param>org.openide.awt.Actions$MenuItem</param>
+  <param>br.com.tecsinapse.glimpse_netbeans.service.ServiceNode$EditAction[Edit]</param>
+  <param>br.com.tecsinapse.glimpse_netbeans.service.ServiceNode$EditAction</param>
+  <param>Edit</param>
+</record>
+<record>
+  <date>2013-04-01T21:17:30</date>
+  <millis>1364861850034</millis>
+  <sequence>87</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>21</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-04-01T21:18:01</date>
+  <millis>1364861881832</millis>
+  <sequence>88</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>15</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>46</param>
+</record>
+<record>
+  <date>2013-04-01T21:18:03</date>
+  <millis>1364861883789</millis>
+  <sequence>91</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>INFO</level>
+  <thread>31</thread>
+  <message>INDEXING_STARTED</message>
+  <key>INDEXING_STARTED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>0</param>
+</record>
+<record>
+  <date>2013-04-01T21:18:03</date>
+  <millis>1364861883793</millis>
+  <sequence>93</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>INFO</level>
+  <thread>31</thread>
+  <message>INDEXING_FINISHED</message>
+  <key>INDEXING_FINISHED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>2</param>
+</record>
+<record>
+  <date>2013-04-01T21:18:03</date>
+  <millis>1364861883803</millis>
+  <sequence>97</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>21</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-04-01T21:28:22</date>
+  <millis>1364862502902</millis>
+  <sequence>46</sequence>
+  <level>FINEST</level>
+  <thread>16</thread>
+  <message>CPU INFO</message>
+  <param>8</param>
+</record>
+<record>
+  <date>2013-04-01T21:28:22</date>
+  <millis>1364862502907</millis>
+  <sequence>47</sequence>
+  <level>FINEST</level>
+  <thread>16</thread>
+  <message>SCREEN SIZE</message>
+  <param>1366</param>
+  <param>768</param>
+  <param>1</param>
+</record>
+<record>
+  <date>2013-04-01T21:28:22</date>
+  <millis>1364862502907</millis>
+  <sequence>48</sequence>
+  <level>CONFIG</level>
+  <thread>16</thread>
+  <message>IDE_STARTUP</message>
+</record>
+<record>
+  <date>2013-04-01T21:28:28</date>
+  <millis>1364862508787</millis>
+  <sequence>74</sequence>
+  <level>INFO</level>
+  <thread>32</thread>
+  <message>MEMORY</message>
+  <key>MEMORY</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>8237469696</param>
+</record>
+<record>
+  <date>2013-04-01T21:28:39</date>
+  <millis>1364862519153</millis>
+  <sequence>79</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>21</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-04-01T21:29:36</date>
+  <millis>1364862576252</millis>
+  <sequence>80</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>21</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-04-01T21:29:37</date>
+  <millis>1364862577790</millis>
+  <sequence>81</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>55</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>157</param>
+</record>
+<record>
+  <date>2013-04-01T21:29:44</date>
+  <millis>1364862584776</millis>
+  <sequence>83</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>53</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>60</param>
+</record>
+<record>
+  <date>2013-04-01T21:29:46</date>
+  <millis>1364862586635</millis>
+  <sequence>84</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>21</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Actions$MenuItem[Edit]</param>
+  <param>org.openide.awt.Actions$MenuItem</param>
+  <param>br.com.tecsinapse.glimpse_netbeans.service.ServiceNode$EditAction[Edit]</param>
+  <param>br.com.tecsinapse.glimpse_netbeans.service.ServiceNode$EditAction</param>
+  <param>Edit</param>
+</record>
+<record>
+  <date>2013-04-01T21:30:45</date>
+  <millis>1364862645727</millis>
+  <sequence>86</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>21</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-04-01T21:31:30</date>
+  <millis>1364862690079</millis>
+  <sequence>87</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>58</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>153</param>
+</record>
+<record>
+  <date>2013-04-01T21:31:32</date>
+  <millis>1364862692130</millis>
+  <sequence>88</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>21</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Actions$MenuItem[Edit]</param>
+  <param>org.openide.awt.Actions$MenuItem</param>
+  <param>br.com.tecsinapse.glimpse_netbeans.service.ServiceNode$EditAction[Edit]</param>
+  <param>br.com.tecsinapse.glimpse_netbeans.service.ServiceNode$EditAction</param>
+  <param>Edit</param>
+</record>
+<record>
+  <date>2013-04-01T21:32:07</date>
+  <millis>1364862727928</millis>
+  <sequence>90</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>21</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-04-01T21:32:29</date>
+  <millis>1364862749145</millis>
+  <sequence>91</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>29</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>65</param>
+</record>
+<record>
+  <date>2013-04-01T21:32:31</date>
+  <millis>1364862751206</millis>
+  <sequence>92</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>21</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Actions$MenuItem[Edit]</param>
+  <param>org.openide.awt.Actions$MenuItem</param>
+  <param>br.com.tecsinapse.glimpse_netbeans.service.ServiceNode$EditAction[Edit]</param>
+  <param>br.com.tecsinapse.glimpse_netbeans.service.ServiceNode$EditAction</param>
+  <param>Edit</param>
+</record>
+<record>
+  <date>2013-04-01T21:32:43</date>
+  <millis>1364862763801</millis>
+  <sequence>94</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>21</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-04-01T21:32:45</date>
+  <millis>1364862765956</millis>
+  <sequence>95</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>58</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>63</param>
+</record>
+<record>
+  <date>2013-04-01T21:32:46</date>
+  <millis>1364862766381</millis>
+  <sequence>96</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>21</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Actions$MenuItem[Edit]</param>
+  <param>org.openide.awt.Actions$MenuItem</param>
+  <param>br.com.tecsinapse.glimpse_netbeans.service.ServiceNode$EditAction[Edit]</param>
+  <param>br.com.tecsinapse.glimpse_netbeans.service.ServiceNode$EditAction</param>
+  <param>Edit</param>
+</record>
+<record>
+  <date>2013-04-01T21:32:53</date>
+  <millis>1364862773446</millis>
+  <sequence>97</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>21</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-04-01T21:32:55</date>
+  <millis>1364862775813</millis>
+  <sequence>98</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>29</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>62</param>
+</record>
+<record>
+  <date>2013-04-01T21:32:55</date>
+  <millis>1364862775949</millis>
+  <sequence>99</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>21</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Actions$MenuItem[Edit]</param>
+  <param>org.openide.awt.Actions$MenuItem</param>
+  <param>br.com.tecsinapse.glimpse_netbeans.service.ServiceNode$EditAction[Edit]</param>
+  <param>br.com.tecsinapse.glimpse_netbeans.service.ServiceNode$EditAction</param>
+  <param>Edit</param>
+</record>
+<record>
+  <date>2013-04-01T21:32:58</date>
+  <millis>1364862778016</millis>
+  <sequence>100</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>21</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-04-01T21:34:03</date>
+  <millis>1364862843303</millis>
+  <sequence>101</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>62</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>148</param>
+</record>
+<record>
+  <date>2013-04-01T21:34:05</date>
+  <millis>1364862845193</millis>
+  <sequence>104</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>INFO</level>
+  <thread>29</thread>
+  <message>INDEXING_STARTED</message>
+  <key>INDEXING_STARTED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>0</param>
+</record>
+<record>
+  <date>2013-04-01T21:34:05</date>
+  <millis>1364862845199</millis>
+  <sequence>106</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>INFO</level>
+  <thread>29</thread>
+  <message>INDEXING_FINISHED</message>
+  <key>INDEXING_FINISHED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>3</param>
+</record>
+<record>
+  <date>2013-04-01T21:34:05</date>
+  <millis>1364862845208</millis>
+  <sequence>110</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>21</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2013-04-01T21:34:45</date>
+  <millis>1364862885635</millis>
+  <sequence>44</sequence>
+  <level>FINEST</level>
+  <thread>13</thread>
+  <message>CPU INFO</message>
+  <param>8</param>
+</record>
+<record>
+  <date>2013-04-01T21:34:45</date>
+  <millis>1364862885639</millis>
+  <sequence>45</sequence>
+  <level>FINEST</level>
+  <thread>13</thread>
+  <message>SCREEN SIZE</message>
+  <param>1366</param>
+  <param>768</param>
+  <param>1</param>
+</record>
+<record>
+  <date>2013-04-01T21:34:45</date>
+  <millis>1364862885639</millis>
+  <sequence>46</sequence>
+  <level>CONFIG</level>
+  <thread>13</thread>
+  <message>IDE_STARTUP</message>
+</record>
+<record>
+  <date>2013-04-01T21:34:50</date>
+  <millis>1364862890829</millis>
+  <sequence>74</sequence>
+  <level>INFO</level>
+  <thread>27</thread>
+  <message>MEMORY</message>
+  <key>MEMORY</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>8237469696</param>
+</record>
+<record>
+  <date>2013-04-01T21:35:03</date>
+  <millis>1364862903322</millis>
+  <sequence>93</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>18</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Actions$MenuItem[Edit]</param>
+  <param>org.openide.awt.Actions$MenuItem</param>
+  <param>br.com.tecsinapse.glimpse_netbeans.service.ServiceNode$EditAction[Edit]</param>
+  <param>br.com.tecsinapse.glimpse_netbeans.service.ServiceNode$EditAction</param>
+  <param>Edit</param>
+</record>
+<record>
+  <date>2013-04-01T21:35:09</date>
+  <millis>1364862909084</millis>
+  <sequence>94</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>18</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Actions$MenuItem[Edit]</param>
+  <param>org.openide.awt.Actions$MenuItem</param>
+  <param>br.com.tecsinapse.glimpse_netbeans.service.ServiceNode$EditAction[Edit]</param>
+  <param>br.com.tecsinapse.glimpse_netbeans.service.ServiceNode$EditAction</param>
+  <param>Edit</param>
+</record>
+<record>
+  <date>2013-04-01T21:35:15</date>
+  <millis>1364862915675</millis>
+  <sequence>97</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>18</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Actions$MenuItem[Edit]</param>
+  <param>org.openide.awt.Actions$MenuItem</param>
+  <param>br.com.tecsinapse.glimpse_netbeans.service.ServiceNode$EditAction[Edit]</param>
+  <param>br.com.tecsinapse.glimpse_netbeans.service.ServiceNode$EditAction</param>
+  <param>Edit</param>
+</record>
+<record>
+  <date>2013-04-01T21:35:23</date>
+  <millis>1364862923114</millis>
+  <sequence>100</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
