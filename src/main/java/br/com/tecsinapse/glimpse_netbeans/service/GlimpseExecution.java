@@ -4,8 +4,6 @@ import br.com.tecsinapse.glimpse.client.ClientPoll;
 import br.com.tecsinapse.glimpse.client.Monitor;
 import java.awt.event.ActionEvent;
 import java.util.List;
-import java.util.concurrent.ExecutorService;
-import java.util.concurrent.Executors;
 import java.util.concurrent.atomic.AtomicBoolean;
 import javax.swing.AbstractAction;
 import org.netbeans.api.progress.ProgressHandle;

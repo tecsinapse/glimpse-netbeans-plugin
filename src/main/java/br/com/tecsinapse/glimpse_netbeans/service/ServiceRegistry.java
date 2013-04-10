@@ -14,7 +14,7 @@ import org.openide.util.lookup.Lookups;
 
 public class ServiceRegistry extends ChildFactory<GlimpseConnector> {
 
-    private static final String DIR_GLIMPSE_CONNECTORS = "/glimpse/connectors";
+    private static final String DIR_GLIMPSE_CONNECTORS = "Glimpse/Connectors";
     private static final String NAME_ATTR = "name";
     private static final String URL_ATTR = "url";
     private static final String USER_ATTR = "username";

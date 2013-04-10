@@ -118,7 +118,8 @@ public class ConnectionPanel extends javax.swing.JPanel {
         initComponents();
         this.lookup = lookup;
         EditorCookie context = lookup.lookup(EditorCookie.class);
-        String connector = (String) context.getDocument().getProperty(
+        final StyledDocument document = context.getDocument();
+        String connector = (String) document.getProperty(
                 ConnectionAction.CONNECTOR_NAME);
         model.setSelectedConnector(connector);
 

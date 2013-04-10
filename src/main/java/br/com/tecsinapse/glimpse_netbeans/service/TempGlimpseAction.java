@@ -4,7 +4,6 @@ import br.com.tecsinapse.glimpse_netbeans.editor.ConnectionAction;
 import java.awt.event.ActionEvent;
 import java.io.IOException;
 import java.io.OutputStream;
-import java.text.MessageFormat;
 import javax.swing.AbstractAction;
 import org.openide.cookies.EditorCookie;
 import org.openide.cookies.OpenCookie;
@@ -17,7 +16,7 @@ import org.openide.util.NbBundle;
 
 public class TempGlimpseAction extends AbstractAction {
 
-    private static final String DIR_GLIMPSE_COMMANDS = "/glimpse/commands";
+    private static final String DIR_GLIMPSE_COMMANDS = "Glimpse/Commands";
     private final GlimpseConnector connector;
 
     public TempGlimpseAction(GlimpseConnector connector) {
@@ -30,24 +29,10 @@ public class TempGlimpseAction extends AbstractAction {
     public void actionPerformed(ActionEvent e) {
         FileObject glimpseDir = getGlimpseDir();
 
-        FileObject tempFile = null;
-        int i = 1;
-        String fileName = null;
-        while ((tempFile = glimpseDir.getFileObject(
-                (fileName = MessageFormat.format("Glimpse {0}", i)), "groovy")) != null) {
-            i++;
-        }
         try {
-            tempFile = glimpseDir.createData(fileName, "groovy");
-            OutputStream out = tempFile.getOutputStream();
-            out.write(new byte[0]);
-            out.close();
+            String fileName = FileUtil.findFreeFileName(glimpseDir, "Glimpse", "groovy");
+            FileObject tempFile = glimpseDir.createData(fileName, "groovy");
 
-
-        } catch (IOException ex) {
-            Exceptions.printStackTrace(ex);
-        }
-        try {
             DataObject dobj = DataObject.find(tempFile);
 
             OpenCookie openCookie = dobj.getLookup().lookup(OpenCookie.class);
@@ -56,6 +41,8 @@ public class TempGlimpseAction extends AbstractAction {
             EditorCookie editor = dobj.getLookup().lookup(EditorCookie.class);
             editor.getDocument().putProperty(ConnectionAction.CONNECTOR_NAME, connector.getName());
         } catch (DataObjectNotFoundException ex) {
+            Exceptions.printStackTrace(ex);
+        } catch (IOException ex) {
             Exceptions.printStackTrace(ex);
         }
     }
