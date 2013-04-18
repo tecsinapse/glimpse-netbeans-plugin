@@ -97,7 +97,9 @@ public class GlimpseExecution {
                     for (ClientPoll clientPoll : poll) {
                         clientPoll.apply(this);
                     }
-                    Thread.sleep(500);
+                    synchronized (this) {
+                        wait(500);
+                    }
                 }
             } finally {
                 handle.finish();
